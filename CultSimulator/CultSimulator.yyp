@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "dcb60bb8-551c-4bd1-b167-c831d50896ed",
+            "Value": {
+                "id": "02096818-ea90-4ba1-998d-bd1996386251",
+                "resourcePath": "sprites\\Cult_main_GUI\\Cult_main_GUI.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e473ac71-f068-4a2f-bef8-2b84351e705c",
             "Value": {
                 "id": "9c8e76f2-15c1-43c1-849d-aacba58e4dbd",
@@ -547,6 +555,14 @@
             "Value": {
                 "id": "a0f99f57-6d4f-42f1-a797-f90ec3d6fcbe",
                 "resourcePath": "objects\\Game_Behavior\\Game_Behavior.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f387e0a6-a87e-4c38-8508-d92d86533767",
+            "Value": {
+                "id": "dea0e56b-fca9-44d3-86af-ef06a485f1ed",
+                "resourcePath": "objects\\GuiBG\\GuiBG.yy",
                 "resourceType": "GMObject"
             }
         },

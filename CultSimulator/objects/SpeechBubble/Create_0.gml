@@ -22,5 +22,6 @@ ds_list_add(listSillyBubbles,
 "You should get a haircut",
 "Do you have dead relatives?",
 "Why be different?",
-"This game has cooties"
+"This game has cooties",
+"This game is too contriversial"
 )
