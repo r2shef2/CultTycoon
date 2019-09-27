@@ -6,6 +6,8 @@ randomize();
 listSillyBubbles = ds_list_create();
 ds_list_add(listSillyBubbles,
 "Follow the Leader!",
+"Join us.",
+"Dance with us",
 "Kool-Aid is delicious",
 "Why are you so different?",
 "We have cookies",
@@ -23,5 +25,6 @@ ds_list_add(listSillyBubbles,
 "Do you have dead relatives?",
 "Why be different?",
 "This game has cooties",
-"This game is too contriversial"
+"This game is too contriversial",
+"You're different, but the same as us"
 )

@@ -573,6 +573,14 @@
                 "resourcePath": "sprites\\Money_Inc\\Money_Inc.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "fa6b0e97-7603-4ed0-853d-99fa9a7389b7",
+            "Value": {
+                "id": "f38468fe-05c7-4b90-882a-39803923ca3b",
+                "resourcePath": "sprites\\Cult_Example\\Cult_Example.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
