@@ -18,6 +18,10 @@ else
 	{
 		audio_play_sound(snd_mumble1, 0, 0);
 	}
+	else if(!audio_is_playing(snd_mumble2))
+	{audio_play_sound(snd_mumble2, 0, 0);}
+	else
+	{audio_play_sound(snd_mumble3, 0, 0);}
 	
 	// When Visible
 	visible = true;
