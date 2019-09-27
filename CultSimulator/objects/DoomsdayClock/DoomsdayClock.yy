@@ -1,41 +1,31 @@
 {
-    "id": "546f338e-7b9e-4282-9b08-c923e1dd8901",
+    "id": "9cdd8d47-75aa-44a4-b2fb-92b737ebd2c2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Follower_Button",
+    "name": "DoomsdayClock",
     "eventList": [
         {
-            "id": "8648f3cc-5f61-41ad-ac7b-51f09acf3f96",
+            "id": "c52153f6-db3f-4884-8b58-d2bc64472838",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "546f338e-7b9e-4282-9b08-c923e1dd8901"
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "9cdd8d47-75aa-44a4-b2fb-92b737ebd2c2"
         },
         {
-            "id": "beadcc0e-6cc5-412c-bd5f-344f1216df2c",
+            "id": "7ab9e7fb-dcb3-4dde-9204-d1f4ca53bfdc",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 10,
-            "eventtype": 6,
-            "m_owner": "546f338e-7b9e-4282-9b08-c923e1dd8901"
-        },
-        {
-            "id": "06d54bd6-f6d1-4a19-acdd-7be1107e109b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 11,
-            "eventtype": 6,
-            "m_owner": "546f338e-7b9e-4282-9b08-c923e1dd8901"
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9cdd8d47-75aa-44a4-b2fb-92b737ebd2c2"
         }
     ],
-    "maskSpriteId": "55616fe6-acc1-47c8-8afc-03b1731b7883",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -53,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "55616fe6-acc1-47c8-8afc-03b1731b7883",
+    "spriteId": "83137f29-1407-48e7-9964-060708554b35",
     "visible": true
 }

@@ -11,10 +11,11 @@ else
     input = string_letters(keyboard_string);
 }
 
-// When enter is hit. Figure out the full name of the cult.
-if(keyboard_check(vk_enter))
+// When enter is hit or the confirm button is clicked. Figure out the full name of the cult.
+if(keyboard_check(vk_enter) || (mouse_button == mb_left && place_meeting(mouse_x, mouse_y, ConfirmName_Button)))
 {
 	tempCultName = input;
+	// randomize the seed, choose from the list, and then replace "Cult" in the string
 	randomize();
 	randIndex = random(ds_list_size(cultNameAppend)) - 1;
 	newCultName = ds_list_find_value(cultNameAppend, randIndex);
@@ -22,6 +23,7 @@ if(keyboard_check(vk_enter))
 	{
 		global.CultName = string_replace(newCultName, "Cult", tempCultName);
 	}
+	// No input
 	else
 	{
 		global.CultName = "The Lamest Cult EVER";

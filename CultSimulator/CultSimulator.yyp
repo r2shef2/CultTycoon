@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "6ecbeaa0-5128-4aec-9320-a75af9cfd7b4",
+            "Value": {
+                "id": "ab4996a2-229e-42fd-8059-5da55adec648",
+                "resourcePath": "sprites\\check_mark_1292787__340\\check_mark_1292787__340.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73b1551c-f74e-4cc2-8d2d-c9b532643e20",
             "Value": {
                 "id": "125665b6-42d4-4abc-b6f1-142aa531fc30",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "83137f29-1407-48e7-9964-060708554b35",
+            "Value": {
+                "id": "118604ed-3985-4aa8-86e3-4f8cb01c9e85",
+                "resourcePath": "sprites\\square\\square.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8c25c626-c542-4dd1-b329-ab8b2c3cc6ce",
             "Value": {
                 "id": "607ff046-298b-4043-9aac-6e354121f899",
@@ -332,6 +348,14 @@
                 "id": "eee37b86-f0b8-47a1-bcb3-b3a772aba16e",
                 "resourcePath": "objects\\GetCultName\\GetCultName.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "90891b01-091e-4334-86b1-ea8d311fd8dd",
+            "Value": {
+                "id": "409e5974-6e45-46d6-8903-df8bfda9ddb7",
+                "resourcePath": "sprites\\sprite17\\sprite17.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -351,11 +375,27 @@
             }
         },
         {
+            "Key": "9cdd8d47-75aa-44a4-b2fb-92b737ebd2c2",
+            "Value": {
+                "id": "39d3f4c0-a2a1-4f04-a60c-a1e5b1c88a87",
+                "resourcePath": "objects\\DoomsdayClock\\DoomsdayClock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e67eb99-1540-415e-b03e-660e302ec61f",
             "Value": {
                 "id": "b0c11e21-dcb4-42bb-b463-373b90aef041",
                 "resourcePath": "sprites\\spr_board\\spr_board.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a3074aec-4f4e-4af7-91a5-92ae1e7f89b5",
+            "Value": {
+                "id": "6d678ce2-0793-4437-a405-c8f59f70d46d",
+                "resourcePath": "objects\\ConfirmName_Button\\ConfirmName_Button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -447,6 +487,14 @@
             }
         },
         {
+            "Key": "c5b32b25-691a-4a82-8ca5-860fd18a989b",
+            "Value": {
+                "id": "3dbd6720-1337-4e7e-b794-a3512cf0fe81",
+                "resourcePath": "fonts\\Handwriting18\\Handwriting18.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "c62bfbc9-31c1-41c7-844a-5921e7077bf7",
             "Value": {
                 "id": "dd18d796-2827-440c-9fad-3674041c24eb",
@@ -460,14 +508,6 @@
                 "id": "befea20f-c7ec-45fa-ba1b-09d4f38241f6",
                 "resourcePath": "objects\\Follower_Tag\\Follower_Tag.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "c99f2d68-8799-43f4-8861-3b6c1781f4f9",
-            "Value": {
-                "id": "3a42000f-94f8-4f83-9e4e-c6927c256617",
-                "resourcePath": "fonts\\CenturyGothic181\\CenturyGothic181.yy",
-                "resourceType": "GMFont"
             }
         },
         {
@@ -604,6 +644,14 @@
                 "id": "f38468fe-05c7-4b90-882a-39803923ca3b",
                 "resourcePath": "sprites\\Cult_Example\\Cult_Example.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd8f358c-4c4f-4279-a4b6-2bd96da892ed",
+            "Value": {
+                "id": "71ae852b-1902-45a2-9c8c-c7f20e445d03",
+                "resourcePath": "fonts\\DoomsdayCountdownFont\\DoomsdayCountdownFont.yy",
+                "resourceType": "GMFont"
             }
         }
     ],
