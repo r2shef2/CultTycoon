@@ -9,6 +9,13 @@ else
 {
 	// Makes the input all letters 
     input = string_letters(keyboard_string);
+	
+	// Capatilizes first character in string
+	V_InitL=string_char_at(input,1);
+	V_InitL_Cap=string_upper(V_InitL);
+
+	input=string_delete(input,1,1);
+	input=string_insert(V_InitL_Cap,input,1);
 }
 
 // When enter is hit or the confirm button is clicked. Figure out the full name of the cult.
@@ -28,8 +35,6 @@ if(keyboard_check(vk_enter) || (mouse_button == mb_left && place_meeting(mouse_x
 	{
 		global.CultName = "The Lamest Cult EVER";
 	}
-	newklfjessage = "The name of your cult is " + global.CultName;
-	show_message(newklfjessage);
 	room_goto(Main_Room);
 	instance_destroy();
 }

@@ -13,6 +13,7 @@ ds_list_add(cultNameAppend,
 "Cult's Witnesses",
 "Second Coming of Cult",
 "Cult Science",
+"Scientists of Cult",
 "The Latter Day Cults",
 "The Latter Day Culters",
 "Unitarian Cultism",
@@ -27,7 +28,8 @@ ds_list_add(cultNameAppend,
 "Cult's Gate",
 "Cultology",
 "The Church of Cult",
-"The Cult International"
+"The Cult International",
+"The New Culters"
 )
 
 // creates cursor
