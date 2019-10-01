@@ -5,16 +5,6 @@
     "name": "DoomsdayClock",
     "eventList": [
         {
-            "id": "c52153f6-db3f-4884-8b58-d2bc64472838",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 2,
-            "m_owner": "9cdd8d47-75aa-44a4-b2fb-92b737ebd2c2"
-        },
-        {
             "id": "7ab9e7fb-dcb3-4dde-9204-d1f4ca53bfdc",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -23,12 +13,32 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "9cdd8d47-75aa-44a4-b2fb-92b737ebd2c2"
+        },
+        {
+            "id": "a607ab62-e643-4d35-935e-3cfae5df998e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9cdd8d47-75aa-44a4-b2fb-92b737ebd2c2"
+        },
+        {
+            "id": "2c1d954d-93b3-425e-a577-44e1c0107b40",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "9cdd8d47-75aa-44a4-b2fb-92b737ebd2c2"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,

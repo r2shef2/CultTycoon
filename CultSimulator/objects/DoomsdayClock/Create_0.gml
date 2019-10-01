@@ -1,1 +1,1 @@
-Timer = 180;
+timer = 120 * room_speed;
