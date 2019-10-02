@@ -2,8 +2,11 @@
     "option_window_colour": {
         "Value": 4278190080
     },
-    "option_gameguid": "922914ab-acaf-4bae-be7e-478d2f866a98",
-    "option_game_speed": 60
+    "option_gameguid": "49405e63-ac8a-4738-936c-03d36f6e6614",
+    "option_game_speed": 60,
+    "option_lastchanged": "01 October 2019 22:05:45",
+    "option_author": "Ryan Sheffield",
+    "option_spine_licence": false
 }←1225f6b0-ac20-43bd-a82e-be73fa0b6f4f|{
     "targets": 461609314234257646
 }←7b2c4976-1e09-44e5-8256-c527145e03bb|{

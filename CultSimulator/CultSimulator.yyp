@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "24562a9d-27f4-4852-80da-d3c69d4bdf95",
+            "Value": {
+                "id": "6a222d78-1ebb-4592-9dee-a0647240ba50",
+                "resourcePath": "objects\\Flag\\Flag.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2cc1e36d-d478-42c8-8793-bc1d42339850",
             "Value": {
                 "id": "14c9de4e-1603-4624-8b60-8dba15b9bd77",
@@ -284,6 +292,14 @@
                 "id": "fd235770-7aaa-40fe-b27a-70b5d8492362",
                 "resourcePath": "objects\\object21\\object21.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6c592195-7ebe-4124-a613-4720e5dae1d0",
+            "Value": {
+                "id": "b83a36f7-4e8e-4b15-ada0-e5ef3d0e03ba",
+                "resourcePath": "sprites\\spr_Flag\\spr_Flag.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
