@@ -111,14 +111,6 @@
             }
         },
         {
-            "Key": "23ea2bcc-3d75-4aa5-bfc2-be285f663801",
-            "Value": {
-                "id": "1d60943b-5620-40df-b21b-0cfd8ed56761",
-                "resourcePath": "fonts\\Artifika1\\Artifika1.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "2cc1e36d-d478-42c8-8793-bc1d42339850",
             "Value": {
                 "id": "14c9de4e-1603-4624-8b60-8dba15b9bd77",
@@ -588,14 +580,6 @@
                 "id": "b19eab38-651e-4314-a1c3-3dbf13137704",
                 "resourcePath": "sprites\\spr_speechBubble\\spr_speechBubble.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e8bdf02c-27e0-45ef-9ff2-a38bdf3d6e20",
-            "Value": {
-                "id": "e1022f96-bceb-4e0a-9e36-bda12cffd663",
-                "resourcePath": "fonts\\Artifika2\\Artifika2.yy",
-                "resourceType": "GMFont"
             }
         },
         {

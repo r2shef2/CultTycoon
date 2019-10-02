@@ -9,15 +9,16 @@
     "option_windows_copy_exe_to_dest": false,
     "option_windows_copyright_info": "(c) 2019 Ryan Sheffield, Bryan Buttars, Mario Garza",
     "option_windows_description_info": "A GameMaker Studio 2 Game",
+    "option_windows_disable_sandbox": false,
     "option_windows_display_cursor": true,
     "option_windows_display_name": "",
     "option_windows_enable_steam": false,
     "option_windows_executable_name": "${project_name}",
-    "option_windows_icon": "${base_options_dir}\\windows\\icons\\icon.ico",
+    "option_windows_icon": "${options_dir}\\windows\\icons\\icon.ico",
     "option_windows_installer_finished": "${base_options_dir}\\windows\\installer\\finished.bmp",
     "option_windows_installer_header": "${base_options_dir}\\windows\\installer\\header.bmp",
     "option_windows_interpolate_pixels": false,
-    "option_windows_license": "${base_options_dir}\\windows\\installer\\license.txt",
+    "option_windows_license": "${options_dir}\\windows\\installer\\license.txt",
     "option_windows_nsis_file": "${base_options_dir}\\windows\\installer\\nsis_script.nsi",
     "option_windows_product_info": "",
     "option_windows_resize_window": false,
@@ -26,6 +27,7 @@
     "option_windows_sleep_margin": 10,
     "option_windows_splash_screen": "${base_options_dir}\\windows\\splash\\splash.png",
     "option_windows_start_fullscreen": true,
+    "option_windows_steam_use_alternative_launcher": false,
     "option_windows_texture_page": "2048x2048",
     "option_windows_use_splash": false,
     "option_windows_version": {
@@ -34,5 +36,5 @@
         "minor": 0,
         "revision": 0
     },
-    "option_windows_vsync": false
+    "option_windows_vsync": true
 }
