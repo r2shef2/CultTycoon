@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "2dbd479d-ed98-4710-817f-2c379b32876a",
+            "Value": {
+                "id": "1ac2d179-40f1-46c1-826f-5b29c00ce617",
+                "resourcePath": "views\\2dbd479d-ed98-4710-817f-2c379b32876a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "30897979-7fee-42ff-92cb-9b6b61862073",
             "Value": {
                 "id": "2ba3c4a4-bf02-473a-9a7a-365fca5161eb",
@@ -604,6 +612,14 @@
                 "id": "9d7f0765-8b88-4720-9f49-b92821f58b1b",
                 "resourcePath": "fonts\\Game_Font\\Game_Font.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "ec75fa07-221a-4170-bb57-dd4f08225153",
+            "Value": {
+                "id": "117a59a5-57d0-4951-82e7-d8534bd94388",
+                "resourcePath": "views\\ec75fa07-221a-4170-bb57-dd4f08225153.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
