@@ -1,41 +1,41 @@
 {
-    "id": "6dd0205f-3fa7-4068-a7cb-488762cfd172",
+    "id": "da0796b3-6626-43b6-9b99-1e74bbdceed9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Menu_Button",
+    "name": "StartGame",
     "eventList": [
         {
-            "id": "b17df8ba-1435-4a8f-9f0e-2258aa213597",
+            "id": "df16d765-15c2-4c80-90d4-9457dbd7ccfa",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "6dd0205f-3fa7-4068-a7cb-488762cfd172"
+            "m_owner": "da0796b3-6626-43b6-9b99-1e74bbdceed9"
         },
         {
-            "id": "b493ec3f-4c40-48ba-81d1-10c0189831b3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 11,
-            "eventtype": 6,
-            "m_owner": "6dd0205f-3fa7-4068-a7cb-488762cfd172"
-        },
-        {
-            "id": "573f527b-3cdb-4b7c-888d-f6dbaa6ce3e8",
+            "id": "5922e213-e8a1-4cc3-a291-005e4565e07e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 10,
             "eventtype": 6,
-            "m_owner": "6dd0205f-3fa7-4068-a7cb-488762cfd172"
+            "m_owner": "da0796b3-6626-43b6-9b99-1e74bbdceed9"
+        },
+        {
+            "id": "3288ba08-2efc-4902-a77e-f3190aedb236",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 6,
+            "m_owner": "da0796b3-6626-43b6-9b99-1e74bbdceed9"
         }
     ],
-    "maskSpriteId": "60626c3e-1632-4968-83db-e85599dd4970",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "60626c3e-1632-4968-83db-e85599dd4970",
+    "spriteId": "e6c8ff7b-664e-41ed-8207-cd8b04c9aed2",
     "visible": true
 }
