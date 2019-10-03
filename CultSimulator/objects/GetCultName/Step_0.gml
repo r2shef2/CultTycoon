@@ -21,6 +21,7 @@ else
 // When enter is hit or the confirm button is clicked. Figure out the full name of the cult.
 if(keyboard_check(vk_enter) || (mouse_button == mb_left && place_meeting(mouse_x, mouse_y, ConfirmName_Button)))
 {
+	audio_play_sound(snd_Click,0,0);
 	tempCultName = input;
 	// randomize the seed, choose from the list, and then replace "Cult" in the string
 	randomize();
