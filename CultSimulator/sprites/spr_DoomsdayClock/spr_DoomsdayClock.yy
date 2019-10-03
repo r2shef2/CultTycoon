@@ -2,7 +2,7 @@
     "id": "83137f29-1407-48e7-9964-060708554b35",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "square",
+    "name": "spr_DoomsdayClock",
     "For3D": false,
     "HTile": false,
     "VTile": false,
