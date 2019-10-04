@@ -6,7 +6,10 @@
     "children": [
         "6933fc97-8c86-4a91-bde8-6b197425fa0e",
         "24562a9d-27f4-4852-80da-d3c69d4bdf95",
-        "da0796b3-6626-43b6-9b99-1e74bbdceed9"
+        "da0796b3-6626-43b6-9b99-1e74bbdceed9",
+        "b029762d-25a9-473e-b661-bcbece247481",
+        "28aa338e-3748-4bf5-999b-9e07678f9a20",
+        "070d89a2-0b64-4a58-b526-55e29f049d06"
     ],
     "filterType": "GMObject",
     "folderName": "TitlePage",

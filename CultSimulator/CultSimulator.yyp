@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00cde79c-b033-4e61-9fed-beb6e8fe334e",
+            "Value": {
+                "id": "15adbc92-b525-4a3f-99a3-bbaa9d6a7e17",
+                "resourcePath": "objects\\DoomsdayEvent_Name\\DoomsdayEvent_Name.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "02e3deb3-8862-4d5b-bf4a-f9bcb391f927",
             "Value": {
                 "id": "31ddf6db-8f7f-41c7-a597-70d4fa2e6b73",
@@ -44,6 +52,14 @@
                 "id": "5d282f2c-ee3f-420b-9d63-97f6626127ab",
                 "resourcePath": "views\\03fa1363-45c1-49a6-b768-7174faba9a3f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "070d89a2-0b64-4a58-b526-55e29f049d06",
+            "Value": {
+                "id": "12741caa-6a72-43b6-ba19-1faafeedc90d",
+                "resourcePath": "objects\\Quit\\Quit.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -123,6 +139,14 @@
             "Value": {
                 "id": "6a222d78-1ebb-4592-9dee-a0647240ba50",
                 "resourcePath": "objects\\Flag\\Flag.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "28aa338e-3748-4bf5-999b-9e07678f9a20",
+            "Value": {
+                "id": "dd3ef6b0-4671-45c9-96a6-08fcf36c24b7",
+                "resourcePath": "objects\\Info\\Info.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -260,6 +284,14 @@
                 "id": "36434809-e575-4611-a92f-22e42ec2771f",
                 "resourcePath": "views\\5594dffd-5426-4dd0-8dd0-3cc9bfbd9207.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5830b92c-7ac6-4bce-bf89-fd1a8e7e150c",
+            "Value": {
+                "id": "92853b3a-df4b-477e-b469-1ed07821295d",
+                "resourcePath": "sprites\\spr_boardGetDoomsday\\spr_boardGetDoomsday.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -482,7 +514,7 @@
             "Key": "9e67eb99-1540-415e-b03e-660e302ec61f",
             "Value": {
                 "id": "b0c11e21-dcb4-42bb-b463-373b90aef041",
-                "resourcePath": "sprites\\spr_board\\spr_board.yy",
+                "resourcePath": "sprites\\spr_boardGetCultName\\spr_boardGetCultName.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -532,6 +564,14 @@
                 "id": "06536e36-08ec-4294-98b2-d9dfc931bd79",
                 "resourcePath": "sprites\\Money_s\\Money_s.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b029762d-25a9-473e-b661-bcbece247481",
+            "Value": {
+                "id": "429c7892-d183-4a56-8398-e6834a5672fd",
+                "resourcePath": "objects\\Credits\\Credits.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -8,7 +8,7 @@ ds_list_add(cultNameAppend,
 )
 randIndex = irandom(ds_list_size(cultNameAppend)) - 1;
 newCultName = ds_list_find_index(cultNameAppend, randIndex);
-if(tempCultName != "")
+if(tempName != "")
 {
-	string_replace(newCultName, "Cult", tempCultName);
+	string_replace(newCultName, "Cult", tempName);
 }

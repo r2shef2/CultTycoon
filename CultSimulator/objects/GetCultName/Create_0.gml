@@ -1,7 +1,16 @@
+// Variables
 input = "";
-tempCultName = "";
+tempName = "";
 global.CultName = "";
+global.DoomsdayEventName = "";
+gettingCultName = true;
 
+// creates cursor
+cursor = "|";
+delay = 20;
+alarm[0] = delay;
+
+// List of Potential Cult Names
 cultNameAppend = ds_list_create();
 ds_list_add(cultNameAppend,
 "Temple of Cult",
@@ -32,7 +41,11 @@ ds_list_add(cultNameAppend,
 "The New Culters"
 )
 
-// creates cursor
-cursor = "|";
-delay = 20;
-alarm[0] = delay;
+doomsdayNameAppend = ds_list_create();
+ds_list_add(doomsdayNameAppend,
+"Second Coming of Doomsday",
+"The Great Doomsday",
+"The Nuclear Doomsday",
+"The War of Doomsday",
+"The Doomsday Apocolypse"
+);

@@ -19,23 +19,54 @@ else
 }
 
 // When enter is hit or the confirm button is clicked. Figure out the full name of the cult.
-if(keyboard_check(vk_enter) || (mouse_button == mb_left && place_meeting(mouse_x, mouse_y, ConfirmName_Button)))
+if(((keyboard_check_pressed(vk_enter) || mouse_check_button_pressed(mb_left) && place_meeting(mouse_x, mouse_y, ConfirmName_Button))) && gettingCultName == true)
 {
 	audio_play_sound(snd_Click,0,0);
-	tempCultName = input;
-	// randomize the seed, choose from the list, and then replace "Cult" in the string
-	randomize();
-	randIndex = random(ds_list_size(cultNameAppend)) - 1;
-	newCultName = ds_list_find_value(cultNameAppend, randIndex);
-	if(tempCultName != "")
+	tempName = input;
+	
+	if(global.CultName = "")
 	{
-		global.CultName = string_replace(newCultName, "Cult", tempCultName);
+		if(tempName != "")
+		{
+			// randomize the seed, choose from the list, and then replace "Cult" in the string
+			randomize();
+			randIndex = random(ds_list_size(cultNameAppend)) - 1;
+			newCultName = ds_list_find_value(cultNameAppend, randIndex);
+			global.CultName = string_replace(newCultName, "Cult", tempName);
+		}
+		else
+		{
+			// No input
+			global.CultName = "The Lamest Cult EVER";
+		}
 	}
-	// No input
+	
+	// the cult name has been given, now get doomsday
+	CultText.sprite_index = spr_boardGetDoomsday
+	keyboard_string = "";
+	gettingCultName = false;
+	mouse_clear(mb_left);
+	keyboard_clear(vk_enter);
+
+}
+if(keyboard_check_pressed(vk_enter) || (mouse_check_button_pressed(mb_left) && place_meeting(mouse_x, mouse_y, ConfirmName_Button)) && gettingCultName == false)
+{
+	audio_play_sound(snd_Click,0,0);
+	tempName = input;
+	show_message("in loop")
+	
+	if(tempName != "")
+	{
+		// randomize the seed, choose from the list, and then replace "Cult" in the string
+		randomize();
+		randIndex = random(ds_list_size(doomsdayNameAppend)) - 1;
+		newDoomsdayName = ds_list_find_value(doomsdayNameAppend, randIndex);
+		global.DoomsdayEventName = string_replace(newDoomsdayName, "Doomsday", tempName);
+	}
 	else
 	{
-		global.CultName = "The Lamest Cult EVER";
+		// No input
+		global.DoomsdayEventName = "Our Own Creativity";
 	}
-	room_goto(Main_Room);
-	instance_destroy();
+	room_goto(Main_Room);	
 }
