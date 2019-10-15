@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944",
+            "Value": {
+                "id": "08130a50-cf70-43a5-9e82-df1f82114d20",
+                "resourcePath": "objects\\Button\\Button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c4619277-bfc4-4e70-b21f-03d06864d4ec",
             "Value": {
                 "id": "3d3490ac-e3da-4013-bc2c-396e24462c07",

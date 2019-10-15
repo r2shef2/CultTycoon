@@ -53,7 +53,6 @@ if(keyboard_check_pressed(vk_enter) || (mouse_check_button_pressed(mb_left) && p
 {
 	audio_play_sound(snd_Click,0,0);
 	tempName = input;
-	show_message("in loop")
 	
 	if(tempName != "")
 	{

@@ -21,6 +21,16 @@ switch(irandom(2)){
 		money = 8000;
 		break;
 }
+enum name {
+	followers,
+	loyalty,
+	money
+};
+
+var buttons;
+buttons[name.followers] = false;
+buttons[name.loyalty] = false;
+buttons[name.money] = false;
 
 //Set an alarm for 10 seconds, then begin deducting points from the player
 alarm[0] = room_speed * 5;
