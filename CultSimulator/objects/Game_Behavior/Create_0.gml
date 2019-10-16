@@ -34,6 +34,7 @@ buttons[name.money] = false;
 
 //Set an alarm for 10 seconds, then begin deducting points from the player
 alarm[0] = room_speed * 5;
+alarm[1] = room_speed;
 
 
 
