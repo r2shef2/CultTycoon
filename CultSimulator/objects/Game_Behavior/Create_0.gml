@@ -6,19 +6,19 @@ end_info = "";
 //Sets up game variables based on three different options
 switch(irandom(2)){
 	case 0:
-		followers = 25;
-		loyalty = 50;
-		money = 3000;
+		followers = 75;
+		loyalty = 150;
+		money = 9000;
 		break;
 	case 1:
-		followers = 40;
-		loyalty = 65;
-		money = 1000;
+		followers = 120;
+		loyalty = 195;
+		money = 3000;
 		break;
 	case 2:
-		followers = 15;
-		loyalty = 35;
-		money = 8000;
+		followers = 45;
+		loyalty = 105;
+		money = 24000;
 		break;
 }
 enum name {
