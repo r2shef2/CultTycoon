@@ -9,7 +9,11 @@
         "da0796b3-6626-43b6-9b99-1e74bbdceed9",
         "b029762d-25a9-473e-b661-bcbece247481",
         "28aa338e-3748-4bf5-999b-9e07678f9a20",
-        "070d89a2-0b64-4a58-b526-55e29f049d06"
+        "070d89a2-0b64-4a58-b526-55e29f049d06",
+        "5470c131-c5ad-4d96-a357-c2c361ab5e88",
+        "3dcd679c-813b-4e2f-b2e7-8c7f8d7655a9",
+        "0e070a87-1d19-479c-a304-ebfa1898e05f",
+        "99cca780-d5e6-4b8c-9b2d-2b1b3da31cf6"
     ],
     "filterType": "GMObject",
     "folderName": "TitlePage",

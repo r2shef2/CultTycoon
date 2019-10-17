@@ -4,4 +4,4 @@
 sprite_index = spr_ClickedStart;
 audio_play_sound(snd_Click,0,0);
 
-room_goto(NamingRoom);
+room_goto(CreditsRoom);

@@ -3,5 +3,5 @@
 
 sprite_index = spr_ClickedStart;
 audio_play_sound(snd_Click,0,0);
-room_goto(NamingRoom);
 window_set_cursor(cr_default);
+game_end();
