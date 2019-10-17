@@ -1,7 +1,7 @@
 draw_self();
 draw_set_valign(fa_center);
 draw_set_halign(fa_center);
-draw_set_color(c_orange);
+draw_set_color(c_red);
 draw_set_font(DoomsdayCountdownFont);
 
 // Make it in seconds and make it readible
@@ -15,4 +15,4 @@ if((timerText - 1) mod 10 == 0)
 	timerText = charOne + " " + charTwo;
 }
 // write
-draw_text(x, y, timerText);
+draw_text(x, y+20, timerText);

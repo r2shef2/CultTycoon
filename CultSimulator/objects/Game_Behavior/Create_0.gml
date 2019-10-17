@@ -13,7 +13,7 @@ switch(irandom(2)){
 	case 1:
 		followers = 120;
 		loyalty = 195;
-		money = 3000;
+		money = 6000;
 		break;
 	case 2:
 		followers = 45;

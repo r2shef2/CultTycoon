@@ -1,0 +1,1 @@
+walkDirection = choose("right", "left");
