@@ -6,9 +6,9 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 64,
+    "bbox_bottom": 129,
     "bbox_left": 0,
-    "bbox_right": 64,
+    "bbox_right": 129,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
@@ -16,34 +16,34 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "230e3577-2b74-4c79-a2b7-c22da5e9db2c",
+            "id": "5ada7be8-a756-4bba-babc-2fa701fdaf05",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "ab88c388-1cb7-4442-84ac-d44cb4e94223",
             "compositeImage": {
-                "id": "f84c0424-e05a-46e5-8e05-245f4247ccc3",
+                "id": "d5c7be70-90ea-4ef1-b5ad-f1751f06c4d3",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "230e3577-2b74-4c79-a2b7-c22da5e9db2c",
+                "FrameId": "5ada7be8-a756-4bba-babc-2fa701fdaf05",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "e8e25b06-a0a9-400e-b093-db01914567ac",
+                    "id": "ce75fb1c-08e6-4c29-bdf2-7e6efdd97e00",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "230e3577-2b74-4c79-a2b7-c22da5e9db2c",
-                    "LayerId": "9325b570-7f1c-4228-8557-901b6b30cdc0"
+                    "FrameId": "5ada7be8-a756-4bba-babc-2fa701fdaf05",
+                    "LayerId": "ccf86115-e2ac-47cf-aafc-26f5d12d9207"
                 }
             ]
         }
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 65,
+    "height": 130,
     "layers": [
         {
-            "id": "9325b570-7f1c-4228-8557-901b6b30cdc0",
+            "id": "ccf86115-e2ac-47cf-aafc-26f5d12d9207",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "ab88c388-1cb7-4442-84ac-d44cb4e94223",
@@ -64,7 +64,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 65,
+    "width": 130,
     "xorig": 2,
     "yorig": 24
 }
