@@ -1,1 +1,2 @@
-timer = 120 * room_speed;
+timer = Game_Behavior.doomsday_time;
+alarm[0] = room_speed * 1;

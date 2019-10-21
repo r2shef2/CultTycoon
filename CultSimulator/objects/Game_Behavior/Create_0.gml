@@ -3,6 +3,9 @@
 cultName = global.CultName;
 doomsdayEventName = global.DoomsdayEventName;
 end_info = "";
+doomsday = false;
+doomsday_counter = 3;
+doomsday_time = 10; 
 //Sets up game variables based on three different options
 switch(irandom(2)){
 	case 0:
@@ -32,8 +35,6 @@ buttons[name.followers] = false;
 buttons[name.loyalty] = false;
 buttons[name.money] = false;
 
-//Set an alarm for 10 seconds, then begin deducting points from the player
-alarm[0] = room_speed * 5;
 alarm[1] = room_speed;
 
 
