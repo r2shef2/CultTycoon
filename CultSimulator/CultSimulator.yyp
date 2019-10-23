@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0ac6ff03-d1ac-4060-9e56-0c556d41ad94",
+            "Value": {
+                "id": "e3cadcd6-05ff-4782-b6af-9ab65dc655f7",
+                "resourcePath": "objects\\Obj_NewsIcon\\Obj_NewsIcon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e4ee645-8891-499b-b1af-55ed9dfe5325",
             "Value": {
                 "id": "c8143796-09f7-4a2c-971d-713534d65256",
@@ -228,6 +236,14 @@
                 "id": "6a222d78-1ebb-4592-9dee-a0647240ba50",
                 "resourcePath": "objects\\Flag\\Flag.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "253f2a9d-4bfe-481b-8c8c-abedb74a29b8",
+            "Value": {
+                "id": "33c024bc-5bf1-4f43-acb6-edaacfac5347",
+                "resourcePath": "sprites\\NewsBar84\\NewsBar84.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -591,6 +607,14 @@
             }
         },
         {
+            "Key": "63ffde4d-2816-4bf8-901c-c8b127996028",
+            "Value": {
+                "id": "4225828d-9eb6-44c0-b9b8-98c7fd546ca8",
+                "resourcePath": "sprites\\NewsBarTopLeft\\NewsBarTopLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "678246b6-b851-4cff-a686-3699d68bdbe8",
             "Value": {
                 "id": "120f7622-db1a-42c1-9a63-43073352aca8",
@@ -828,6 +852,14 @@
                 "id": "d953e550-7b50-49e7-a65c-02fb500792af",
                 "resourcePath": "sprites\\Underwear_cli\\Underwear_cli.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "87e4f303-debd-4023-b8f6-ac67ed865403",
+            "Value": {
+                "id": "dc5e6dc0-d725-4f26-a1b3-50c5f0165a6c",
+                "resourcePath": "objects\\NewsBar_o\\NewsBar_o.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1275,6 +1307,14 @@
             "Value": {
                 "id": "02096818-ea90-4ba1-998d-bd1996386251",
                 "resourcePath": "sprites\\Cult_main_GUI\\Cult_main_GUI.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dd60d674-1dca-419f-aec3-631f1ffe32ee",
+            "Value": {
+                "id": "409a6227-063a-4445-b270-47102e7a2f24",
+                "resourcePath": "sprites\\NewsIcon85\\NewsIcon85.yy",
                 "resourceType": "GMSprite"
             }
         },
