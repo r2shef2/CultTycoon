@@ -1,5 +1,5 @@
 // Max number of characters in the string
-limit = 15;
+limit = 10;
 if (string_length(keyboard_string)>=limit)
 {
 	// If its over the limit, don't change anything

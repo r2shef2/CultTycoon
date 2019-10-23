@@ -12,4 +12,4 @@ if(string_length(timerText) == 1)
 	timerText = "0" + timerText
 
 // write
-draw_text(x, y+20, timerText);
+draw_text_outlined(x, y+20, c_black, c_red, timerText);

@@ -16,7 +16,8 @@
         "585cc839-54b5-4fef-8016-3c201df3c9a3",
         "00cde79c-b033-4e61-9fed-beb6e8fe334e",
         "cceefc67-263b-4cd7-9a1b-0e048a201d31",
-        "753d5a03-677e-47ee-a0dd-720e68d34c2d"
+        "753d5a03-677e-47ee-a0dd-720e68d34c2d",
+        "7a0ba8b6-ba01-4c7f-819a-b7c0777a4f26"
     ],
     "filterType": "GMObject",
     "folderName": "GUI",

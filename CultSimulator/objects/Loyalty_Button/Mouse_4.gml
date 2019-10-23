@@ -1,3 +1,7 @@
-audio_play_sound(snd_Click,0,0);
-window_set_cursor(cr_default);
-room_goto(Loyalty_Room);
+if(global.room_number != 3)
+{
+	audio_play_sound(snd_Click,0,0);
+	window_set_cursor(cr_default);
+	room_goto(Ritual_Room);
+	global.room_number = 3;
+}

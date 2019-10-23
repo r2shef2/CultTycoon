@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Button Additions & Deductions
 // You can write your code in this editor
 
 //Reduce resources if they are toggled on

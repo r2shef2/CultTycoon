@@ -1,6 +1,7 @@
-/// @description Insert description here
-// You can write your code in this editor
-audio_play_sound(snd_Click,0,0);
-window_set_cursor(cr_default);
-room_goto(Follower_Room);
-
+if(global.room_number != 1)
+{
+	audio_play_sound(snd_Click,0,0);
+	window_set_cursor(cr_default);
+	room_goto(Recruitement_Room);
+	global.room_number = 1;
+}

@@ -7,3 +7,14 @@ if(loyalty < 20 || followers < 5 || money < 100){
 }
 
 
+
+
+// Doomsday Animations. Done here to be precise to the millisecond
+if(doomsday_counter > 0)
+{
+}
+else
+{
+}
+
+

@@ -9,7 +9,7 @@
         "f629ce60-208b-430a-92d5-848be78f7cbd"
     ],
     "filterType": "GMSprite",
-    "folderName": "Buttons",
+    "folderName": "Buttons_InGame",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

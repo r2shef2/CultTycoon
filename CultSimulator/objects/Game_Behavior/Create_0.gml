@@ -5,7 +5,9 @@ doomsdayEventName = global.DoomsdayEventName;
 end_info = "";
 doomsday = false;
 doomsday_counter = 3;
-doomsday_time = 10; 
+doomsday_time = 10;
+// Sets animations of what room. [1 is home, 2 is recruitement, 3 is investments, 4 is rituals]
+global.room_number = 0;
 //Sets up game variables based on three different options
 switch(irandom(2)){
 	case 0:
