@@ -123,6 +123,20 @@
             "value": "0",
             "varName": "buttons[name.money]",
             "varType": 3
+        },
+        {
+            "id": "ba1c8bf6-5546-404a-81c1-74630a30b59e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "buttons[name.jobs]",
+            "varType": 3
         }
     ],
     "solid": false,

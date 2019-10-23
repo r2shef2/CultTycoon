@@ -29,13 +29,11 @@ switch(irandom(2)){
 enum name {
 	followers,
 	loyalty,
-	money
+	money,
+	jobs
 };
 
 var buttons;
-buttons[name.followers] = false;
-buttons[name.loyalty] = false;
-buttons[name.money] = false;
 
 alarm[1] = room_speed;
 
