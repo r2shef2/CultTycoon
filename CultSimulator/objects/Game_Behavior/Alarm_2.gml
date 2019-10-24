@@ -8,8 +8,8 @@ if(doomsday_counter > 1)
 }
 if(doomsday_counter > 0)
 {
-	followers -= round(followers * 0.15);
-	loyalty -= round(loyalty * 0.2);
+	followers -= 35+round(followers * 0.15);
+	loyalty -= 5+round(loyalty * 0.2);
 	doomsday_counter--;
 	alarm[2] = room_speed * 1;
 }
