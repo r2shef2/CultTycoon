@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "CultMember",
     "eventList": [
-        
+        {
+            "id": "89a7c261-80c2-4049-8870-061c6c6e976b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "dae8e5a0-6e96-4b75-82f6-f7f89b370034"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fa6b0e97-7603-4ed0-853d-99fa9a7389b7",
+    "spriteId": "ef2c7666-062b-40c2-9653-6d1d90e897c3",
     "visible": true
 }

@@ -463,22 +463,6 @@
             }
         },
         {
-            "Key": "4be842c8-a7f8-4389-9a88-deda626f5338",
-            "Value": {
-                "id": "51475b52-7566-4b45-9718-2e8c609b4cd2",
-                "resourcePath": "objects\\Loyalty_Recruit\\Loyalty_Recruit.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "4df7ca71-9e49-4274-a27b-36e2e11427f3",
-            "Value": {
-                "id": "cca93b7f-0127-4581-b55d-d77ba15a1e74",
-                "resourcePath": "objects\\Follower_Recruit\\Follower_Recruit.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "50304469-efea-4c34-965b-f96449909f65",
             "Value": {
                 "id": "dbbb1315-3ac1-4ff7-b938-7cce0de680da",
@@ -815,14 +799,6 @@
             }
         },
         {
-            "Key": "80083e80-3f35-48b5-ae63-abdd3a1cfd99",
-            "Value": {
-                "id": "7361a5ed-7537-4b81-888d-ca255cbfb184",
-                "resourcePath": "objects\\Money_Recruit\\Money_Recruit.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "811921c7-8bc0-48c7-9e8f-ff17d5d12ea6",
             "Value": {
                 "id": "2378e81c-6251-4817-9439-5d16435aebb6",
@@ -999,6 +975,14 @@
             }
         },
         {
+            "Key": "a2d88895-6413-4d61-a901-ab6df45f709e",
+            "Value": {
+                "id": "562a823a-fdb0-47fc-979b-66bec127d348",
+                "resourcePath": "sprites\\Recruitment_social_1_\\Recruitment_social_1_.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a3074aec-4f4e-4af7-91a5-92ae1e7f89b5",
             "Value": {
                 "id": "6d678ce2-0793-4437-a405-c8f59f70d46d",
@@ -1124,6 +1108,14 @@
                 "id": "85e329a7-5887-4f9b-b7de-3dfd55757e45",
                 "resourcePath": "views\\ba873cc6-c3c7-4e41-bb03-548b156a3b4e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bbdbc0fd-792e-434a-beef-88c434192c51",
+            "Value": {
+                "id": "4c94e7cc-79e0-4eea-b1e2-12c66789b28d",
+                "resourcePath": "sprites\\Labor_call_1_\\Labor_call_1_.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

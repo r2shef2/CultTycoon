@@ -22,5 +22,12 @@ if(buttons[name.money]){
 	Game_Behavior.money += Game_Behavior.followers * 25;
 }
 }
+if(buttons[name.jobs]){
+	// adds loyalty removes money
+	if(Game_Behavior.loyalty >= 10){
+	Game_Behavior.loyalty += 7;
+	Game_Behavior.money -= Game_Behavior.followers * 10;
+}
+}
 
 alarm[1] = room_speed * 1;

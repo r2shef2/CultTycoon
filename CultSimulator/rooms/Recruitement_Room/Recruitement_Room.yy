@@ -8,8 +8,8 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "9f7e6e00-a859-411e-b954-9f3c921817bc",
-        "1142ba4f-ad22-4e9c-94d2-4fc373d0864c",
-        "0a2ffbda-63c9-485b-bee9-71b08a3f0248"
+        "4c1b3d92-db72-4774-b1c5-df361ce49379",
+        "b3267a17-8da9-48e7-ab59-bea734d82b5d"
     ],
     "IsDnD": false,
     "layers": [
@@ -27,8 +27,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "Followers","id": "1142ba4f-ad22-4e9c-94d2-4fc373d0864c","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Followers.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Followers","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": [],"rotation": 0,"scaleX": 3,"scaleY": 3,"mvc": "1.1","x": 576,"y": 576},
-{"name": "Jobs","id": "0a2ffbda-63c9-485b-bee9-71b08a3f0248","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Jobs.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Jobs","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1024,"y": 544}
+{"name": "Celebrities","id": "4c1b3d92-db72-4774-b1c5-df361ce49379","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Celebrities.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Celebrities","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": [],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1061,"y": 313},
+{"name": "Social","id": "b3267a17-8da9-48e7-ab59-bea734d82b5d","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Social.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Social","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": [],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1581,"y": 319}
             ],
             "layers": [
 
@@ -96,9 +96,9 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "42a7f404-5e38-4fd0-8787-fa35d189e9c0",
-            "animationFPS": 15,
+            "animationFPS": 24,
             "animationSpeedType": "0",
-            "colour": { "Value": 4294948798 },
+            "colour": { "Value": 4294967295 },
             "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
@@ -117,7 +117,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "e93ac23f-ef97-42a1-abab-f9aebfc6b645",
+            "spriteId": "a2d88895-6413-4d61-a901-ab6df45f709e",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,

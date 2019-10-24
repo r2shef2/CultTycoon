@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 //End game if player does not have minumum requirements
-if(loyalty < 20 || followers < 5 || money < 100){
+if(loyalty < 0 || followers < 0 || money < 0){
 	instance_destroy();
 }
 

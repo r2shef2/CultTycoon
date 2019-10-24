@@ -8,7 +8,7 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "5702bc6d-b893-4ac7-ae3b-0096803d94e7",
-        "6749f38b-08d2-4ade-a3e9-21909c23aa4a"
+        "d53dcc13-e45b-43cd-a23e-52fa7aa264f5"
     ],
     "IsDnD": false,
     "layers": [
@@ -26,7 +26,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "Money","id": "6749f38b-08d2-4ade-a3e9-21909c23aa4a","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Money.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Money","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 3,"scaleY": 3,"mvc": "1.1","x": 640,"y": 544}
+{"name": "Children","id": "d53dcc13-e45b-43cd-a23e-52fa7aa264f5","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Children.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Children","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1632,"y": 672}
             ],
             "layers": [
 
@@ -68,9 +68,9 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "1ccee77f-8618-4a65-a863-51e518f03b5a",
-            "animationFPS": 15,
+            "animationFPS": 24,
             "animationSpeedType": "0",
-            "colour": { "Value": 4280221507 },
+            "colour": { "Value": 4294967295 },
             "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
@@ -89,7 +89,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "e93ac23f-ef97-42a1-abab-f9aebfc6b645",
+            "spriteId": "bbdbc0fd-792e-434a-beef-88c434192c51",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,

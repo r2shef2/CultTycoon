@@ -8,7 +8,8 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "080cb422-fddf-4529-97eb-f328f33ecde7",
-        "623e0620-1c78-4fe3-a0b6-8dfc9bb886ec"
+        "08ac6371-440e-416a-bb09-93a2bffdbb32",
+        "78047ea8-980c-4a8d-973c-5e80d8f49e78"
     ],
     "IsDnD": false,
     "layers": [
@@ -26,7 +27,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "Loyalty","id": "623e0620-1c78-4fe3-a0b6-8dfc9bb886ec","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Loyalty.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Loyalty","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 3,"scaleY": 3,"mvc": "1.1","x": 1440,"y": 576}
+{"name": "Jobs","id": "08ac6371-440e-416a-bb09-93a2bffdbb32","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Jobs.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Jobs","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 416,"y": 320},
+{"name": "Zines","id": "78047ea8-980c-4a8d-973c-5e80d8f49e78","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Zines.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Zines","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1395,"y": 256}
             ],
             "layers": [
 

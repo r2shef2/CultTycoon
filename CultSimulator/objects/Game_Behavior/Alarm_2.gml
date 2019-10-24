@@ -1,14 +1,17 @@
 /// @description Doomsday Deductions
 // You can write your code in this editor
 
-if(doomsday_counter > 0)
+if(doomsday_counter > 1)
 {
-	followers -= round(followers * 0.06);
-	loyalty -= round(loyalty * 0.1);
-	doomsday_counter--;
-	alarm[2] = room_speed * 1;
 	// when timer runs out blink lights
 	DoomsdayLight.image_speed = 1;
+}
+if(doomsday_counter > 0)
+{
+	followers -= round(followers * 0.15);
+	loyalty -= round(loyalty * 0.2);
+	doomsday_counter--;
+	alarm[2] = room_speed * 1;
 }
 else {
 	doomsday_counter = 3;

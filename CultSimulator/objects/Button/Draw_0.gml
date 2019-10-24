@@ -4,12 +4,12 @@
 if(hovered){
 draw_self();
 draw_set_halign(fa_middle);
-draw_set_valign(fa_bottom)
-draw_set_color(c_yellow);
-draw_set_font(Game_Font);
+draw_set_valign(fa_middle)
+draw_set_color(c_black);
+draw_set_font(Handwriting18);
 xpos = ButtonInfo.x;
 ypos = ButtonInfo.y;
-draw_text(xpos , ypos, button[button.info]);
+draw_text_ext(xpos, ypos, button[button.info], 35, 694);
 }
 else{
 	draw_self();
