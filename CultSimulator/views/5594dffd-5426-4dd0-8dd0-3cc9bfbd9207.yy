@@ -5,6 +5,7 @@
     "name": "5594dffd-5426-4dd0-8dd0-3cc9bfbd9207",
     "children": [
         "dcb60bb8-551c-4bd1-b167-c831d50896ed",
+        "7fb59ef1-777c-41ad-9e0c-3114dc8b2b21",
         "9e67eb99-1540-415e-b03e-660e302ec61f",
         "6ecbeaa0-5128-4aec-9320-a75af9cfd7b4",
         "ab80191f-ea86-4607-94f0-6bef14bd35ca",
@@ -24,7 +25,10 @@
         "07a885c4-cb98-4608-8e3a-354b411889d4",
         "253f2a9d-4bfe-481b-8c8c-abedb74a29b8",
         "63ffde4d-2816-4bf8-901c-c8b127996028",
-        "dd60d674-1dca-419f-aec3-631f1ffe32ee"
+        "dd60d674-1dca-419f-aec3-631f1ffe32ee",
+        "85f8318c-c10c-4aa8-8faa-1fc7262ffd84",
+        "543e96d5-1e62-4262-b908-dbf312788d1e",
+        "55a28d50-d4fe-4a26-943f-6691d9fd0a39"
     ],
     "filterType": "GMSprite",
     "folderName": "GUI",
