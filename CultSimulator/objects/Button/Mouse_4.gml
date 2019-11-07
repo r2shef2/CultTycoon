@@ -4,13 +4,13 @@
 var index = button[button.sprite];
 
 //Toggle the button on or off
-if(button[button.toggled]){
-	button[button.toggled] = false;
-	Game_Behavior.buttons[index] = false;
-	image_blend = c_white;
-}
-else {
+if(!button[button.toggled]){
 	button[button.toggled] = true;
 	Game_Behavior.buttons[index] = true;
 	image_blend = c_silver;
 }
+/*else {
+	button[button.toggled] = true;
+	Game_Behavior.buttons[index] = true;
+	image_blend = c_silver;
+}*/

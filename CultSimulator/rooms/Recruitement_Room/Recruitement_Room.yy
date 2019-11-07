@@ -8,7 +8,6 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "9f7e6e00-a859-411e-b954-9f3c921817bc",
-        "4c1b3d92-db72-4774-b1c5-df361ce49379",
         "b3267a17-8da9-48e7-ab59-bea734d82b5d"
     ],
     "IsDnD": false,
@@ -27,8 +26,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "Celebrities","id": "4c1b3d92-db72-4774-b1c5-df361ce49379","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Celebrities.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Celebrities","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": [],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1061,"y": 313},
-{"name": "Social","id": "b3267a17-8da9-48e7-ab59-bea734d82b5d","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Social.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Social","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": [],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1581,"y": 319}
+{"name": "FF","id": "b3267a17-8da9-48e7-ab59-bea734d82b5d","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_FF.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "FF","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": [],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1581,"y": 319}
             ],
             "layers": [
 

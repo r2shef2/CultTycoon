@@ -5,7 +5,7 @@ doomsdayEventName = global.DoomsdayEventName;
 end_info = "";
 doomsday = false;
 doomsday_counter = 3;
-doomsday_time = 30;
+doomsday_time = 15;
 // Sets animations of what room. [1 is home, 2 is recruitement, 3 is investments, 4 is rituals]
 global.room_number = 0;
 //Sets up game variables based on three different options
@@ -26,22 +26,28 @@ switch(irandom(2)){
 		money = 24000;
 		break;
 }
+
 enum name {
-	followers,
-	loyalty,
-	money,
-	jobs,
-	history,
-	drugs,
-	magazines,
+//Recruitment rooms	1-3
+	ff,
+	door,
+	social,
+//Investment rooms 1-3
+	tithing,
 	children,
-	celebrities,
-	social
+	trafficking,
+//Ritual rooms 1-3	
+	campfire,
+	publishing,
+	
 };
 
+recruitment_room = 1;
+investment_room = 1;
+ritual_room = 1;
 var buttons;
 
-alarm[1] = room_speed;
+
 
 
 

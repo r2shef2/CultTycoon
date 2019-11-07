@@ -45,16 +45,6 @@
             "m_owner": "eefac2ee-59a6-4b51-9eb8-99ada9830b3a"
         },
         {
-            "id": "cdc5a289-ca66-4fde-97bf-67f27a824286",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 2,
-            "m_owner": "eefac2ee-59a6-4b51-9eb8-99ada9830b3a"
-        },
-        {
             "id": "29045128-8f3e-4c12-885e-7798b98832fd",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -92,12 +82,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "buttons[name.followers] ",
+            "value": "False",
+            "varName": "buttons[name.ff] ",
             "varType": 3
         },
         {
-            "id": "1b74958d-f9e2-4e31-8b39-e0f182d6c8ec",
+            "id": "a26659df-3d3a-4b87-8682-829919c37ecd",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -107,7 +97,21 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "buttons[name.loyalty] ",
+            "varName": "buttons[name.door]",
+            "varType": 3
+        },
+        {
+            "id": "f27d2ecf-6069-4c2a-b3b5-f09ad4f91430",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "buttons[name.social]",
             "varType": 3
         },
         {
@@ -121,63 +125,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "buttons[name.money]",
-            "varType": 3
-        },
-        {
-            "id": "ba1c8bf6-5546-404a-81c1-74630a30b59e",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "buttons[name.jobs]",
-            "varType": 3
-        },
-        {
-            "id": "307fdb52-2277-43c6-a607-896f6c6c5ebd",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "buttons[name.history]",
-            "varType": 3
-        },
-        {
-            "id": "42bc9b39-0285-4d9e-b5ae-ed13f1573aa5",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "buttons[name.drugs]",
-            "varType": 3
-        },
-        {
-            "id": "6d7b5823-43ff-4597-b726-8388e112ce38",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "buttons[name.magazines]",
+            "varName": "buttons[name.tithing]",
             "varType": 3
         },
         {
@@ -195,7 +143,7 @@
             "varType": 3
         },
         {
-            "id": "9ff8b86b-d8d3-4622-aba5-4224aa78779c",
+            "id": "1a50e95a-e429-4d46-9179-7dfe6ff82917",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -205,11 +153,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "buttons[name.celebrities]",
+            "varName": "buttons[name.trafficking]",
             "varType": 3
         },
         {
-            "id": "f27d2ecf-6069-4c2a-b3b5-f09ad4f91430",
+            "id": "7439c8e3-9137-4c39-9f4d-bee6d89eb622",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -219,7 +167,21 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "buttons[name.social]",
+            "varName": "buttons[name.campfire]",
+            "varType": 3
+        },
+        {
+            "id": "7aac4dd2-e0b4-4c77-84a0-c5b164c4dff1",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "buttons[name.publishing]",
             "varType": 3
         }
     ],

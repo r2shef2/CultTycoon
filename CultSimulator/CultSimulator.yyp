@@ -79,14 +79,6 @@
             }
         },
         {
-            "Key": "07a223fd-b671-4f83-ad67-a61c2b254107",
-            "Value": {
-                "id": "01d6df9c-58cf-4fc5-924f-3703c7cbc6f8",
-                "resourcePath": "rooms\\Investment_Room\\Investment_Room.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "07a885c4-cb98-4608-8e3a-354b411889d4",
             "Value": {
                 "id": "e972800e-c28b-4b9e-ba7b-955d4a8a85f1",
@@ -132,6 +124,14 @@
                 "id": "f57ae966-f2e6-45eb-b4c9-365e5bb35ac3",
                 "resourcePath": "views\\100d53af-5933-4b87-8848-d9085b7ea083.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1042f086-b79b-4ef1-b110-03ed4b2c756b",
+            "Value": {
+                "id": "27993e30-235f-4a7b-85ab-072802171949",
+                "resourcePath": "rooms\\Ritual_Room2\\Ritual_Room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "414ba2f1-f89c-4a8e-a024-54df855ce8d9",
+            "Value": {
+                "id": "bc62917d-3dd1-4e39-b3e7-897c14e6d34c",
+                "resourcePath": "sounds\\Alarm\\Alarm.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4226d438-24e3-42ac-b61d-352417afaddb",
             "Value": {
                 "id": "4aeccdd5-52da-42bc-888e-141527edd939",
@@ -572,6 +580,14 @@
                 "id": "1ac11535-f9a4-4da9-a1fe-d0ab6f54626d",
                 "resourcePath": "sprites\\Cult_main_GUI38\\Cult_main_GUI38.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5d6b22eb-8641-4b8f-8ba9-bc5b42bd6b85",
+            "Value": {
+                "id": "eb207c82-7a5c-4fc7-9ae0-f15a25301b4d",
+                "resourcePath": "rooms\\Recruitement_Room2\\Recruitement_Room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -959,6 +975,14 @@
             }
         },
         {
+            "Key": "95f0e159-e8f7-46ae-a0a7-98d1b4e5134a",
+            "Value": {
+                "id": "02ea6e96-b96a-43cb-bbe5-4cae42107cf9",
+                "resourcePath": "rooms\\Investment_Room2\\Investment_Room2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "968f84ec-2cd6-4244-8a10-e830256a4eec",
             "Value": {
                 "id": "5d97c422-d73d-4bff-9a26-1133b2baa42f",
@@ -1071,6 +1095,14 @@
             }
         },
         {
+            "Key": "a858c326-88e0-4e75-90e6-1f00c3131989",
+            "Value": {
+                "id": "8db050e8-14f0-42ce-9b9d-943e39eeb626",
+                "resourcePath": "rooms\\Investment_Room3\\Investment_Room3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "aae3a27e-ac76-4d64-a049-4e9a620ef1d2",
             "Value": {
                 "id": "5853e7b6-7827-4bbe-8a41-35086ded6ca8",
@@ -1124,6 +1156,14 @@
                 "id": "429c7892-d183-4a56-8398-e6834a5672fd",
                 "resourcePath": "objects\\Credits\\Credits.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b2d39df0-af55-49ea-97af-5ffc237cfebc",
+            "Value": {
+                "id": "5215a832-367b-4f8f-8eb6-d4e7efb2cd88",
+                "resourcePath": "rooms\\Investment_Room\\Investment_Room.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1284,6 +1324,22 @@
                 "id": "265774b4-4488-4ef6-9f0b-7821a7151a58",
                 "resourcePath": "objects\\obj_minus\\obj_minus.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ce94c93e-4de9-437c-a551-36e73eaf1973",
+            "Value": {
+                "id": "1582428d-b3ad-4015-be05-00cc0d151d38",
+                "resourcePath": "views\\ce94c93e-4de9-437c-a551-36e73eaf1973.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cfa4fca7-e92f-45d3-bb25-eddfa69ecfcb",
+            "Value": {
+                "id": "69fc1ac3-d0cf-4060-bba7-d2201864d0f6",
+                "resourcePath": "rooms\\Recruitement_Room3\\Recruitement_Room3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
