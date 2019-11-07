@@ -11,10 +11,10 @@ if(loyalty < 0 || followers < 0 || money < 0){
 if(buttons[name.ff]){
 	if(Game_Behavior.money >= 700){
 	Game_Behavior.money -= 700;
-	instance_create_depth(Money_Tag.x - 115,Money_Tag.y - 12,-1000,obj_minus);
+	instance_create_depth(Money_Tag.x,Money_Tag.y,-1000,obj_minus);
 	multiplier = irandom_range(1,6);
 	Game_Behavior.followers += multiplier* 2;
-	instance_create_depth(Follower_Tag.x - 190,Follower_Tag.y - 60,-1000,obj_plus);
+	instance_create_depth(Follower_Tag.x,Follower_Tag.y,-1000,obj_plus);
 	//Reset the toggle on the button on the next frame,
 	//subtract points and reset image blend
 	FF.button[button.toggled] = false;
@@ -25,10 +25,10 @@ if(buttons[name.ff]){
 if(buttons[name.door]){
 	if(Game_Behavior.money >= 700){
 	Game_Behavior.money -= 700;
-	instance_create_depth(Money_Tag.x - 115,Money_Tag.y - 12,-1000,obj_minus);
+	instance_create_depth(Money_Tag.x,Money_Tag.y,-1000,obj_minus);
 	multiplier = irandom_range(1,6);
 	Game_Behavior.followers += multiplier* 2;
-	instance_create_depth(Follower_Tag.x - 190,Follower_Tag.y - 60,-1000,obj_plus);
+	instance_create_depth(Follower_Tag.x,Follower_Tag.y,-1000,obj_plus);
 	//Reset the toggle on the button on the next frame,
 	//subtract points and reset image blend
 	Door.button[button.toggled] = false;
@@ -39,10 +39,10 @@ if(buttons[name.door]){
 if(buttons[name.social]){
 	if(Game_Behavior.money >= 700){
 	Game_Behavior.money -= 700;
-	instance_create_depth(Money_Tag.x - 115,Money_Tag.y - 12,-1000,obj_minus);
+	instance_create_depth(Money_Tag.x,Money_Tag.y,-1000,obj_minus);
 	multiplier = irandom_range(1,6);
 	Game_Behavior.followers += multiplier* 2;
-	instance_create_depth(Follower_Tag.x - 190,Follower_Tag.y - 60,-1000,obj_plus);
+	instance_create_depth(Follower_Tag.x,Follower_Tag.y,-1000,obj_plus);
 	//Reset the toggle on the button on the next frame,
 	//subtract points and reset image blend
 	Social.button[button.toggled] = false;
@@ -55,9 +55,9 @@ if(buttons[name.social]){
 if(buttons[name.tithing]){
 	if(Game_Behavior.loyalty >= 20){
 	Game_Behavior.loyalty -= 7;
-	instance_create_depth(Loyalty_Tag.x - 105,Loyalty_Tag.y - 12,-1000,obj_minus);
+	instance_create_depth(Loyalty_Tag.x,Loyalty_Tag.y,-1000,obj_minus);
 	Game_Behavior.money += Game_Behavior.followers * 25;
-	instance_create_depth(Money_Tag.x - 190,Money_Tag.y - 90,-1000, obj_plus);
+	instance_create_depth(Money_Tag.x,Money_Tag.y,-1000, obj_plus);
 	//Reset the toggle on the button on the next frame,
 	//subtract points and reset image blend
 	Tithing.button[button.toggled] = false;
@@ -69,7 +69,7 @@ if(buttons[name.children]){
 	if(Game_Behavior.loyalty >= 20){
 	Game_Behavior.loyalty -= 7;
 	Game_Behavior.money += Game_Behavior.followers * 25;
-	instance_create_depth(Money_Tag.x - 190,Money_Tag.y - 90,-1000, obj_plus);
+	instance_create_depth(Money_Tag.x,Money_Tag.y,-1000, obj_plus);
 	//Reset the toggle on the button on the next frame,
 	//subtract points and reset image blend
 	Children.button[button.toggled] = false;
@@ -81,7 +81,7 @@ if(buttons[name.trafficking]){
 	if(Game_Behavior.loyalty >= 20){
 	Game_Behavior.loyalty -= 7;
 	Game_Behavior.money += Game_Behavior.followers * 25;
-	instance_create_depth(Money_Tag.x - 190,Money_Tag.y - 90,-1000, obj_plus);
+	instance_create_depth(Money_Tag.x,Money_Tag.y,-1000, obj_plus);
 	//Reset the toggle on the button on the next frame,
 	//subtract points and reset image blend
 	Trafficking.button[button.toggled] = false;
@@ -95,9 +95,9 @@ if(buttons[name.campfire]){
 	// adds loyalty removes money
 	if(Game_Behavior.loyalty >= 10){
 	Game_Behavior.loyalty += 7;
-	instance_create_depth(Loyalty_Tag.x - 178, Loyalty_Tag.y - 100,-1000,obj_plus);
+	instance_create_depth(Loyalty_Tag.x, Loyalty_Tag.y,-1000,obj_plus);
 	Game_Behavior.money -= Game_Behavior.followers * 10;
-	instance_create_depth(Money_Tag.x - 115,Money_Tag.y - 12,-1000,obj_minus);
+	instance_create_depth(Money_Tag.x,Money_Tag.y,-1000,obj_minus);
 	//Reset the toggle on the button on the next frame,
 	//subtract points and reset image blend
 	Campfire.button[button.toggled] = false;
@@ -109,9 +109,9 @@ if(buttons[name.publishing]){
 	// adds loyalty removes money
 	if(Game_Behavior.loyalty >= 10){
 	Game_Behavior.loyalty += 7;
-	instance_create_depth(Loyalty_Tag.x - 178, Loyalty_Tag.y - 100,-1000,obj_plus);
+	instance_create_depth(Loyalty_Tag.x, Loyalty_Tag.y,-1000,obj_plus);
 	Game_Behavior.money -= Game_Behavior.followers * 10;
-	instance_create_depth(Money_Tag.x - 115,Money_Tag.y - 12,-1000,obj_minus);
+	instance_create_depth(Money_Tag.x,Money_Tag.y,-1000,obj_minus);
 	//Reset the toggle on the button on the next frame,
 	//subtract points and reset image blend
 	Publishing.button[button.toggled] = false;
