@@ -13,8 +13,8 @@
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Buttons",
-            "id": "987d4a0f-7f7f-43e1-8666-182ee83eeda4",
+            "name": "Instances_2",
+            "id": "e556d681-9f34-4e35-8dc4-e17de0857d51",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "Social","id": "8f499192-5abf-428a-be43-d2aa10bde27d","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Social.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Social","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 416,"y": 384}
+
             ],
             "layers": [
 
@@ -39,8 +39,8 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Gui",
-            "id": "4d573a6b-c92e-411e-aa4f-c90379ce12e2",
+            "name": "Buttons",
+            "id": "987d4a0f-7f7f-43e1-8666-182ee83eeda4",
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
@@ -51,7 +51,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_C5325DB","id": "c9ffb251-cde9-4cc2-b4a5-9b2ed02b1eb7","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_C5325DB","objId": "f387e0a6-a87e-4c38-8508-d92d86533767","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
+{"name": "Social","id": "8f499192-5abf-428a-be43-d2aa10bde27d","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Social.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Social","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 416,"y": 384}
             ],
             "layers": [
 

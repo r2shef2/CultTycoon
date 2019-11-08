@@ -15,7 +15,6 @@
         "91be6e41-fa28-4f29-abab-d497ed60e6e2",
         "6b98d78f-6fe5-4ea3-a8c3-b2fe3c606434",
         "f3d34b43-f321-4ad2-bb0b-0ff607b2bb20",
-        "56367239-d377-436c-a6e6-b83140c76e9f",
         "2a601947-6cad-4028-8011-3be167aeb1a6",
         "ce0fda11-79e8-4460-a006-02c76bf67fef",
         "4fa55169-94b7-4a0f-b4c7-b34548157293",
@@ -24,7 +23,8 @@
         "43175ce6-559c-4897-813e-9968c3d87031",
         "42c08447-edb6-4dcf-bdd2-90d6189fe489",
         "d4cf2374-0299-48e4-9d66-7987fd2f19d2",
-        "48f96961-9ef3-4e2f-81ab-2fb1dba1e9cf"
+        "48f96961-9ef3-4e2f-81ab-2fb1dba1e9cf",
+        "56367239-d377-436c-a6e6-b83140c76e9f"
     ],
     "IsDnD": false,
     "layers": [
@@ -32,7 +32,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Buttons",
             "id": "000bf5ea-2e9b-47e3-a6eb-038b4923268e",
-            "depth": 0,
+            "depth": -2,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -74,7 +74,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Main",
             "id": "742e2468-b559-468a-8a39-2ee3c2789adb",
-            "depth": 100,
+            "depth": 98,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -100,7 +100,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "GUI",
             "id": "17a5289a-2de0-4b39-9487-6a7d1eee89d8",
-            "depth": 200,
+            "depth": 198,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -119,7 +119,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "userdefined_depth": false,
+            "userdefined_depth": true,
             "visible": true
         },
         {
@@ -129,7 +129,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 300,
+            "depth": 298,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

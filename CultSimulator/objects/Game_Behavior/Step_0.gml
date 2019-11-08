@@ -2,11 +2,14 @@
 // You can write your code in this editor
 
 //End game if player does not have minumum requirements
-if(loyalty < 0 || followers < 0 || money < 0){
+if(loyalty <= 15 || followers <= 10 || money <= 500){
 	audio_stop_all();
+	gameover = true;
 	instance_destroy();
 }
-
+if(gameover)
+	return;
+	
 //Recruitment Rooms 1-3
 if(buttons[name.ff]){
 	if(Game_Behavior.money >= 700){
