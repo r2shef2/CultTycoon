@@ -7,7 +7,6 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "616d17fd-f64c-43f9-bede-e3130c20f019",
         "f7ff0c0b-ee2c-40f2-9d7e-6c7897261914"
     ],
     "IsDnD": false,

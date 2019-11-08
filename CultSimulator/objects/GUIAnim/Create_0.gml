@@ -1,0 +1,1 @@
+audio_play_sound(OpenClose, 0, 0);

@@ -67,5 +67,7 @@ if(keyboard_check_pressed(vk_enter) || (mouse_check_button_pressed(mb_left) && p
 		// No input
 		global.DoomsdayEventName = "Our Own Creativity";
 	}
-	room_goto(Main_Room);	
+	// by creating the instance it teleports you to the initial room
+	global.room_to_go_to = Main_Room;
+	instance_create_depth(0,0, 2, GUIAnim);
 }

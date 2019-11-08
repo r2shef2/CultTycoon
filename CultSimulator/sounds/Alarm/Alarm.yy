@@ -3,7 +3,7 @@
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "Alarm",
-    "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
+    "audioGroupGuid": "2fa3f8ff-851a-47ee-8dcf-689f853529b5",
     "bitDepth": 1,
     "bitRate": 128,
     "kind": 0,

@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "CultMember",
     "eventList": [
-        {
-            "id": "89a7c261-80c2-4049-8870-061c6c6e976b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "dae8e5a0-6e96-4b75-82f6-f7f89b370034"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

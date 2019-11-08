@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "185c9e50-53db-495b-bdc4-f3ddebfcda72",
+            "Value": {
+                "id": "7777c031-992a-44ae-babf-52e4ed684598",
+                "resourcePath": "sprites\\spr_GUI_Anim_BW\\spr_GUI_Anim_BW.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1a73fd2b-5587-41e5-997a-34c7746d823a",
             "Value": {
                 "id": "717e4a8c-5c98-4fe3-830f-5e539016d9ab",
@@ -423,6 +431,14 @@
             }
         },
         {
+            "Key": "41f7e546-3d82-4b07-9de5-6cef43e3d02a",
+            "Value": {
+                "id": "14b28611-3e3f-4b6b-9d80-12a7c8ea79a7",
+                "resourcePath": "sounds\\OpenClose\\OpenClose.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4226d438-24e3-42ac-b61d-352417afaddb",
             "Value": {
                 "id": "4aeccdd5-52da-42bc-888e-141527edd939",
@@ -540,6 +556,14 @@
                 "id": "15a252fc-3390-4ea9-8300-97e78c071cab",
                 "resourcePath": "sprites\\spr_plus\\spr_plus.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "56f140d3-8f4f-4c8e-bacb-dc0f0b953a10",
+            "Value": {
+                "id": "97a3bd5c-36e5-49b1-8291-0e1804e28988",
+                "resourcePath": "objects\\CompoundBubble\\CompoundBubble.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -844,6 +868,14 @@
                 "id": "657f40b6-9d79-441e-b89d-08dd795d51e1",
                 "resourcePath": "sprites\\spr_GUI_Anim\\spr_GUI_Anim.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8010565c-458f-485e-9123-7dcd08163151",
+            "Value": {
+                "id": "f3b36ba5-a938-4ef2-8c2c-911674d47996",
+                "resourcePath": "objects\\GUIAnimBackwards\\GUIAnimBackwards.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1619,6 +1651,14 @@
             "Value": {
                 "id": "b70a3d89-53ba-4c04-bd74-ba000d44edb8",
                 "resourcePath": "sprites\\Cult_Idle_Lean\\Cult_Idle_Lean.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fcef90db-0059-41d6-a2a3-278bcfe94592",
+            "Value": {
+                "id": "482cee46-e1b5-45e0-a3c4-18763e527b3e",
+                "resourcePath": "sprites\\Compound94\\Compound94.yy",
                 "resourceType": "GMSprite"
             }
         },
