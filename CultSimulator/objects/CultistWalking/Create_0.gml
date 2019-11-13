@@ -1,1 +1,1 @@
-walkDirection = choose("right", "left");
+walkDirection = choose("right", "left", "idle");
