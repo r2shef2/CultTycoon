@@ -5,7 +5,7 @@ doomsdayEventName = global.DoomsdayEventName;
 end_info = "";
 doomsday = false;
 doomsday_counter = 3;
-doomsday_time = 30;
+doomsday_time = 999;
 gameover = false;
 // Sets animations of what room. [1 is home, 2 is recruitement, 3 is investments, 4 is rituals]
 global.room_number = 0;
@@ -41,6 +41,7 @@ enum name {
 //Ritual rooms 1-3	
 	campfire,
 	publishing,
+	suicide
 	
 };
 

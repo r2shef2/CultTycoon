@@ -12,11 +12,10 @@ if(gameover)
 	
 //Recruitment Rooms 1-3
 if(buttons[name.ff]){
-	if(Game_Behavior.money >= 700){
-	Game_Behavior.money -= 700;
+	if(Game_Behavior.money >= 100){
+	Game_Behavior.money -= 100;
 	instance_create_depth(Money_Tag.x,Money_Tag.y,-1000,obj_minus);
-	multiplier = irandom_range(1,6);
-	Game_Behavior.followers += multiplier* 2;
+	Game_Behavior.followers += 2;
 	instance_create_depth(Follower_Tag.x,Follower_Tag.y,-1000,obj_plus);
 	//Reset the toggle on the button on the next frame,
 	//subtract points and reset image blend
@@ -93,7 +92,7 @@ if(buttons[name.trafficking]){
 }
 }
 
-//Ritual Rooms 1-2
+//Ritual Rooms 1-3
 if(buttons[name.campfire]){
 	// adds loyalty removes money
 	if(Game_Behavior.loyalty >= 10){
@@ -122,6 +121,21 @@ if(buttons[name.publishing]){
 	Publishing.image_blend = c_white;
 }
 }
+if(buttons[name.suicide]){
+	// adds loyalty removes money
+	if(Game_Behavior.loyalty >= 10){
+	Game_Behavior.loyalty += 7;
+	instance_create_depth(Loyalty_Tag.x, Loyalty_Tag.y,-1000,obj_plus);
+	Game_Behavior.money -= Game_Behavior.followers * 10;
+	instance_create_depth(Money_Tag.x,Money_Tag.y,-1000,obj_minus);
+	//Reset the toggle on the button on the next frame,
+	//subtract points and reset image blend
+	Suicide.button[button.toggled] = false;
+	buttons[name.suicide] = false;
+	Suicide.image_blend = c_white;
+}
+}
+
 
 // Doomsday Animations. Done here to be precise to the millisecond
 if(doomsday_counter > 0)

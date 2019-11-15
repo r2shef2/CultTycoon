@@ -183,6 +183,20 @@
             "value": "0",
             "varName": "buttons[name.publishing]",
             "varType": 3
+        },
+        {
+            "id": "c64d853e-397c-444f-bcb5-9a397757200b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "buttons[name.suicide]",
+            "varType": 3
         }
     ],
     "solid": false,

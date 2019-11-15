@@ -487,6 +487,14 @@
             }
         },
         {
+            "Key": "4e24d384-dfc2-4046-b8cf-bed4323fc866",
+            "Value": {
+                "id": "fd74886d-1dbd-44b4-9b4d-758c6f7f2cb3",
+                "resourcePath": "objects\\RitualRoom_Minus\\RitualRoom_Minus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "50304469-efea-4c34-965b-f96449909f65",
             "Value": {
                 "id": "dbbb1315-3ac1-4ff7-b938-7cce0de680da",
@@ -615,6 +623,22 @@
             }
         },
         {
+            "Key": "5e535c58-e1d3-448b-a49e-bf68b494e225",
+            "Value": {
+                "id": "1f7baeed-ced6-4c75-bea3-bbb48f0fe0c2",
+                "resourcePath": "objects\\RitualRoom_Plus\\RitualRoom_Plus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5e901f5d-74bf-4d81-855b-e55a3e16540a",
+            "Value": {
+                "id": "3d827418-0d8e-4154-a6b5-80a11078cc18",
+                "resourcePath": "objects\\Recruitment_Minus\\Recruitment_Minus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5f23782d-a3e7-486d-9c02-503dbc710e62",
             "Value": {
                 "id": "387fb3b8-1545-4e86-8505-95772254c2f2",
@@ -644,6 +668,14 @@
                 "id": "1f669b0a-d202-4347-89aa-e86e7d3a66e5",
                 "resourcePath": "views\\62e60379-aa9f-4a98-95db-5fa739fd0d10.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "631fa50b-82ce-484a-8c00-0e82e18fc1d2",
+            "Value": {
+                "id": "5383d73f-654e-496c-9ecf-ca8314456ae6",
+                "resourcePath": "objects\\Investment_Minus\\Investment_Minus.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -831,6 +863,14 @@
             }
         },
         {
+            "Key": "796d7542-ee77-40e0-8f56-2e4bd9c748d1",
+            "Value": {
+                "id": "a297a42d-7869-4630-8429-77b5833027e2",
+                "resourcePath": "objects\\Recruitment_Plus\\Recruitment_Plus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "79c19704-abd4-4ba3-be65-dc7b59b5edfc",
             "Value": {
                 "id": "13e3f7f4-73b1-4d26-99c2-90d0fd901e6e",
@@ -1004,6 +1044,14 @@
                 "id": "b7d5620f-7e2c-4a08-8a2f-223762085a72",
                 "resourcePath": "objects\\GUIAnim\\GUIAnim.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "94731c8e-10e7-49d0-b904-0fbeb8272db5",
+            "Value": {
+                "id": "4ca8c1d5-8e08-420c-bc3e-9fcc63b7b8da",
+                "resourcePath": "rooms\\Ritual_Room3\\Ritual_Room3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1495,6 +1543,14 @@
             }
         },
         {
+            "Key": "e3cee446-091f-466f-b4d7-6f8e350b7fea",
+            "Value": {
+                "id": "14e3d62f-315e-4596-8539-9fdf35e468d4",
+                "resourcePath": "objects\\Investment_Plus\\Investment_Plus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e473ac71-f068-4a2f-bef8-2b84351e705c",
             "Value": {
                 "id": "9c8e76f2-15c1-43c1-849d-aacba58e4dbd",
@@ -1596,6 +1652,14 @@
                 "id": "e4340066-6ac0-493b-9dc1-21c77fac6ac1",
                 "resourcePath": "sprites\\spr_off\\spr_off.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f0217a62-f463-41af-80a5-34f9124be40a",
+            "Value": {
+                "id": "d054357a-7c8b-4fab-b10b-7ff7abfe8706",
+                "resourcePath": "views\\f0217a62-f463-41af-80a5-34f9124be40a.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

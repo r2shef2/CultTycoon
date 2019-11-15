@@ -12,7 +12,8 @@
         "95f0e159-e8f7-46ae-a0a7-98d1b4e5134a",
         "a858c326-88e0-4e75-90e6-1f00c3131989",
         "3b32d579-0bc3-458d-9669-e5b954a160ec",
-        "1042f086-b79b-4ef1-b110-03ed4b2c756b"
+        "1042f086-b79b-4ef1-b110-03ed4b2c756b",
+        "94731c8e-10e7-49d0-b904-0fbeb8272db5"
     ],
     "filterType": "GMRoom",
     "folderName": "GameRooms",
