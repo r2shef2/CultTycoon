@@ -16,7 +16,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Instances",
             "id": "ea229370-0093-4b17-b205-1335e21c37b9",
-            "depth": 0,
+            "depth": 5,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -36,7 +36,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
-            "userdefined_depth": false,
+            "userdefined_depth": true,
             "visible": true
         },
         {
@@ -46,7 +46,7 @@
             "animationFPS": 33,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 100,
+            "depth": 105,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

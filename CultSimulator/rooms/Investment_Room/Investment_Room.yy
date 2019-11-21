@@ -8,14 +8,14 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "dee5dc77-5fca-451b-9ef7-ff563dcbd084",
-        "b89e4f1a-8ce3-4467-b8fa-5ac2822696c5"
+        "00e97862-5b0a-442e-ae9f-4029c3f7878c"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances_1",
-            "id": "3c9c35c8-de7c-46c2-b435-1c7008eb2de2",
+            "name": "Instances",
+            "id": "ba7da0e5-2a2d-4f1d-a033-25cdb8bb60fa",
             "depth": 5,
             "grid_x": 32,
             "grid_y": 32,
@@ -26,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_33A75B26","id": "b89e4f1a-8ce3-4467-b8fa-5ac2822696c5","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_33A75B26","objId": "e3cee446-091f-466f-b4d7-6f8e350b7fea","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1820,"y": 540}
+{"name": "Tithing","id": "dee5dc77-5fca-451b-9ef7-ff563dcbd084","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Tithing.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Tithing","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1344,"y": 540},
+{"name": "inst_34C52DED","id": "00e97862-5b0a-442e-ae9f-4029c3f7878c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_34C52DED","objId": "e3cee446-091f-466f-b4d7-6f8e350b7fea","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1800,"y": 540}
             ],
             "layers": [
 
@@ -39,39 +40,13 @@
             "visible": true
         },
         {
-            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
-            "id": "ba7da0e5-2a2d-4f1d-a033-25cdb8bb60fa",
-            "depth": 105,
-            "grid_x": 32,
-            "grid_y": 32,
-            "hierarchyFrozen": false,
-            "hierarchyVisible": true,
-            "inheritLayerDepth": false,
-            "inheritLayerSettings": false,
-            "inheritSubLayers": false,
-            "inheritVisibility": false,
-            "instances": [
-{"name": "Tithing","id": "dee5dc77-5fca-451b-9ef7-ff563dcbd084","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Tithing.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Tithing","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1344,"y": 540}
-            ],
-            "layers": [
-
-            ],
-            "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": false,
-            "modelName": "GMRInstanceLayer",
-            "mvc": "1.0",
-            "userdefined_depth": false,
-            "visible": true
-        },
-        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "960145cc-2599-4f78-85c1-4170ce29bec3",
             "animationFPS": 33,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 205,
+            "depth": 105,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

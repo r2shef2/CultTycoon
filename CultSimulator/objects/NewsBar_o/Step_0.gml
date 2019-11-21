@@ -4,7 +4,7 @@ if startpos >= str_len { //reset the sign back to the beginning once it reaches 
 }
 if(iterations == 3){
  randIndex = random(ds_list_size(news)) - 1;
- str = "               ";
+ str = "                     ";
  str2 = ds_list_find_value(news, randIndex);
  str += str2;
  iterations = 0;

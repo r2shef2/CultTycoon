@@ -14,32 +14,6 @@
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances_2",
-            "id": "e556d681-9f34-4e35-8dc4-e17de0857d51",
-            "depth": -97,
-            "grid_x": 32,
-            "grid_y": 32,
-            "hierarchyFrozen": false,
-            "hierarchyVisible": true,
-            "inheritLayerDepth": false,
-            "inheritLayerSettings": false,
-            "inheritSubLayers": false,
-            "inheritVisibility": false,
-            "instances": [
-
-            ],
-            "layers": [
-
-            ],
-            "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": false,
-            "modelName": "GMRInstanceLayer",
-            "mvc": "1.0",
-            "userdefined_depth": false,
-            "visible": true
-        },
-        {
-            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Buttons",
             "id": "987d4a0f-7f7f-43e1-8666-182ee83eeda4",
             "depth": 3,
@@ -66,39 +40,13 @@
             "visible": true
         },
         {
-            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances_1",
-            "id": "4b97e281-2a6e-47f4-93b6-4accfbc4c1ce",
-            "depth": 2,
-            "grid_x": 32,
-            "grid_y": 32,
-            "hierarchyFrozen": false,
-            "hierarchyVisible": true,
-            "inheritLayerDepth": false,
-            "inheritLayerSettings": false,
-            "inheritSubLayers": false,
-            "inheritVisibility": false,
-            "instances": [
-
-            ],
-            "layers": [
-
-            ],
-            "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": false,
-            "modelName": "GMRInstanceLayer",
-            "mvc": "1.0",
-            "userdefined_depth": false,
-            "visible": true
-        },
-        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "9b241bb4-f117-4ab4-8c72-09935e0e8051",
             "animationFPS": 24,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 2,
+            "depth": 103,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -119,7 +67,7 @@
             "spriteId": "a2d88895-6413-4d61-a901-ab6df45f709e",
             "stretch": false,
             "userdefined_animFPS": false,
-            "userdefined_depth": true,
+            "userdefined_depth": false,
             "visible": true,
             "vspeed": 0,
             "vtiled": false,
@@ -144,7 +92,7 @@
         "Height": 1080,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
-        "persistent": true,
+        "persistent": false,
         "mvc": "1.0",
         "Width": 1920
     },
