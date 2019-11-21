@@ -6,13 +6,19 @@ if(walkDirection = "right")
 {
 	move_towards_point(2200, y, speed );
 	//change anim direction
-	image_xscale = image_xscale * 1;
+	image_xscale = image_xscale;
 }
 if(walkDirection = "left")
 {
 	move_towards_point( -100, y, speed );
 	//change anim direction
 	image_xscale = image_xscale * -1;
+}
+if(walkDirection = "idle")
+{
+	move_towards_point( x, y, 0 );
+	//change anim direction
+	sprite_index = Cult_Idle_Lean
 }
 
 // have character walk back
