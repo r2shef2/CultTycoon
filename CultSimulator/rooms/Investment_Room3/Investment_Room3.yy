@@ -26,7 +26,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "Trafficking","id": "95dc91f3-cc3b-47d8-a89b-ffab1936a4e5","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Trafficking.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Trafficking","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1600,"y": 320},
+{"name": "Trafficking","id": "95dc91f3-cc3b-47d8-a89b-ffab1936a4e5","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_Trafficking.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "Trafficking","objId": "c3cb8a89-1b38-4e1e-ba62-1316afd4f944","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 928,"y": 608},
 {"name": "inst_5845B2E0","id": "b7eda895-fd2e-49f2-94b0-5a92f0f3d511","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5845B2E0","objId": "631fa50b-82ce-484a-8c00-0e82e18fc1d2","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 100,"y": 540}
             ],
             "layers": [
@@ -43,7 +43,7 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "45726bb3-39dc-4ddf-a21f-6ede73ef7d38",
-            "animationFPS": 24,
+            "animationFPS": 33,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
             "depth": 105,
@@ -64,7 +64,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "bbdbc0fd-792e-434a-beef-88c434192c51",
+            "spriteId": "6c91323b-a739-4ae6-b3f6-75164aa0480a",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,

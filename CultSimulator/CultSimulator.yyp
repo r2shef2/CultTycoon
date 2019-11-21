@@ -791,6 +791,14 @@
             }
         },
         {
+            "Key": "6c91323b-a739-4ae6-b3f6-75164aa0480a",
+            "Value": {
+                "id": "df2d3e8f-c47c-4433-95f0-0ff55adc0f48",
+                "resourcePath": "sprites\\Traffic\\Traffic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6ca5d94c-2784-4fb4-b3c4-2d92bf4f810e",
             "Value": {
                 "id": "cf83f3e7-2a3d-40ac-bb04-45eacd8d532c",
@@ -1675,6 +1683,14 @@
             "Value": {
                 "id": "b19eab38-651e-4314-a1c3-3dbf13137704",
                 "resourcePath": "sprites\\spr_speechBubble\\spr_speechBubble.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e8a029c4-5d1a-4fb2-be65-bd3de94ce69d",
+            "Value": {
+                "id": "ae9c4ac9-ed67-4ef2-a62a-ee48564640c2",
+                "resourcePath": "sprites\\Pyramid_scene\\Pyramid_scene.yy",
                 "resourceType": "GMSprite"
             }
         },
