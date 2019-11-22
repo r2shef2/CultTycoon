@@ -6,7 +6,8 @@
     "children": [
         "0ecbeae2-6838-4179-b809-567297951c06",
         "96fe93cf-671b-4877-82d5-ca39cab58487",
-        "db6f2db9-967c-4226-b141-1c99e866108e"
+        "db6f2db9-967c-4226-b141-1c99e866108e",
+        "1eab4a4f-2892-4d5a-935c-b4da99d10847"
     ],
     "filterType": "GMObject",
     "folderName": "Settings",

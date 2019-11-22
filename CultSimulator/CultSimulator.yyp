@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "1eab4a4f-2892-4d5a-935c-b4da99d10847",
+            "Value": {
+                "id": "419b5cb4-74e2-48ca-a126-0ae02170ba3a",
+                "resourcePath": "objects\\obj_home\\obj_home.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f455f5e-b8f7-45b2-b7d7-a07d342692e5",
             "Value": {
                 "id": "b0f934dc-2249-4fd9-b146-99fc4c87b42c",
@@ -940,6 +948,14 @@
                 "id": "44a0654e-956e-43f8-9d99-f8a591724cbb",
                 "resourcePath": "objects\\DoomsdayLight\\DoomsdayLight.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7a730026-56ed-451f-a563-95520d9140ec",
+            "Value": {
+                "id": "003f3dbd-5f6e-491b-a5e8-377124ffad97",
+                "resourcePath": "sprites\\Asset_9\\Asset_9.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

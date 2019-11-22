@@ -24,6 +24,7 @@ else if(Game_Behavior.ritual_room == 3)
 {
 	audio_play_sound(snd_Click,0,0);
 	window_set_cursor(cr_default);
-	room_goto(Ritual_Room3);
+	instance_create_depth(0,0, 2, GUIAnim);
+	global.room_to_go_to = Ritual_Room3;
 	global.room_number = 3;
 }
