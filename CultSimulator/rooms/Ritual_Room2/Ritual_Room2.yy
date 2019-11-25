@@ -45,7 +45,7 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "999f17d0-5f15-4461-9af2-6dd58af0f3bd",
-            "animationFPS": 33,
+            "animationFPS": 24,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
             "depth": 105,

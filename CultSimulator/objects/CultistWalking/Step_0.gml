@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-speed = 1.5
+speed = random_range(.75, 1.25)
 // Move character based on walk direction
 if(walkDirection = "right")
 {
@@ -20,7 +20,9 @@ if(walkDirection = "idle")
 {
 	move_towards_point( x, y, 0 );
 	//change anim direction
-	sprite_index = Cult_Idle_Lean
+	image_xscale = .144;
+	sprite_index = spriteIdle;
+	
 }
 
 // have character walk back

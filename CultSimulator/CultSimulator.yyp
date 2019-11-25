@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "2bd4f14e-9f70-4711-bc7a-37271c36eddc",
+            "Value": {
+                "id": "91264807-3fe2-41fa-be53-53f56baf7660",
+                "resourcePath": "sounds\\ChaChing6\\ChaChing6.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2cc1e36d-d478-42c8-8793-bc1d42339850",
             "Value": {
                 "id": "14c9de4e-1603-4624-8b60-8dba15b9bd77",
@@ -372,6 +380,14 @@
                 "id": "2ba3c4a4-bf02-473a-9a7a-365fca5161eb",
                 "resourcePath": "views\\30897979-7fee-42ff-92cb-9b6b61862073.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "30b61a7d-b94b-4ad1-b0fc-1eb268477e89",
+            "Value": {
+                "id": "e311f84e-f706-4913-a20b-36022376c47e",
+                "resourcePath": "sounds\\ChaChing5\\ChaChing5.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -807,6 +823,14 @@
             }
         },
         {
+            "Key": "6c8144a7-a0cb-48be-80b0-66e863751b2a",
+            "Value": {
+                "id": "08673ae9-f1ed-4d53-af7e-86388930694c",
+                "resourcePath": "sprites\\Compound\\Compound.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c91323b-a739-4ae6-b3f6-75164aa0480a",
             "Value": {
                 "id": "df2d3e8f-c47c-4433-95f0-0ff55adc0f48",
@@ -1063,6 +1087,14 @@
             }
         },
         {
+            "Key": "8906330f-e220-416b-99d6-910405b2a441",
+            "Value": {
+                "id": "5fe581fe-b624-45ea-a007-12f2dc48d0c2",
+                "resourcePath": "sounds\\ChaChing\\ChaChing.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8965eeed-dace-48c2-9802-743dcf5185d9",
             "Value": {
                 "id": "7ff65675-5d7a-4c4f-b6d3-8f4c4f98422b",
@@ -1220,6 +1252,14 @@
                 "id": "4d34b60b-bb47-437f-995b-1a06bb3f1c76",
                 "resourcePath": "sprites\\Train_cli\\Train_cli.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9eb5854b-3a1a-4a46-a317-506518f8d91f",
+            "Value": {
+                "id": "569752b5-8f6a-4172-8a41-bd732043d3a7",
+                "resourcePath": "sounds\\ChaChing3\\ChaChing3.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1567,11 +1607,11 @@
             }
         },
         {
-            "Key": "d71c977f-51e0-48c6-a565-89f05f39bb72",
+            "Key": "d6b985de-4038-4f7c-83bf-2ffb4dc7c3ad",
             "Value": {
-                "id": "756cd445-2c34-4e94-9c1c-48a50b335f17",
-                "resourcePath": "sprites\\Compound_1_\\Compound_1_.yy",
-                "resourceType": "GMSprite"
+                "id": "8d230a90-909f-43de-be1b-a07c8d022290",
+                "resourcePath": "sounds\\ChaChing4\\ChaChing4.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1612,6 +1652,14 @@
                 "id": "1616cea8-d03c-4288-bf11-9b8063dfb7dd",
                 "resourcePath": "objects\\obj_music\\obj_music.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "db85b830-4123-456e-81a6-202a7b1777e3",
+            "Value": {
+                "id": "07c793ab-8818-40d5-bb09-49e28a2b7e18",
+                "resourcePath": "sounds\\ChaChing2\\ChaChing2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
