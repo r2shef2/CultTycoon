@@ -159,14 +159,6 @@
             }
         },
         {
-            "Key": "1575ee6e-472a-403a-9a24-a3b779321af3",
-            "Value": {
-                "id": "39790851-e975-4ce6-865a-3bec56ac12b0",
-                "resourcePath": "sprites\\Tithe_1_\\Tithe_1_.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "185c9e50-53db-495b-bdc4-f3ddebfcda72",
             "Value": {
                 "id": "7777c031-992a-44ae-babf-52e4ed684598",
@@ -1295,14 +1287,6 @@
             }
         },
         {
-            "Key": "a6503bb5-5ff0-4fb1-bad3-e33c05e71d14",
-            "Value": {
-                "id": "6da13ed6-7cc1-4b5f-8d06-c6ffd2fbc0e4",
-                "resourcePath": "fonts\\CenturyGothic18\\CenturyGothic18.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "a858c326-88e0-4e75-90e6-1f00c3131989",
             "Value": {
                 "id": "8db050e8-14f0-42ce-9b9d-943e39eeb626",
@@ -1743,22 +1727,6 @@
             }
         },
         {
-            "Key": "e93ac23f-ef97-42a1-abab-f9aebfc6b645",
-            "Value": {
-                "id": "c94d1bd8-768e-44d9-ad5a-34b5e4733a0d",
-                "resourcePath": "sprites\\image3\\image3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ea644f2e-1a84-4baa-a48d-73131b407cc1",
-            "Value": {
-                "id": "9d7f0765-8b88-4720-9f49-b92821f58b1b",
-                "resourcePath": "fonts\\Game_Font\\Game_Font.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "eafc0dd0-bf83-4a6a-8190-910466bae481",
             "Value": {
                 "id": "e53842c5-8565-4bb7-90eb-bf7c5a787ed9",
@@ -1883,14 +1851,6 @@
             "Value": {
                 "id": "b70a3d89-53ba-4c04-bd74-ba000d44edb8",
                 "resourcePath": "sprites\\Cult_Idle_Lean\\Cult_Idle_Lean.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "fcef90db-0059-41d6-a2a3-278bcfe94592",
-            "Value": {
-                "id": "482cee46-e1b5-45e0-a3c4-18763e527b3e",
-                "resourcePath": "sprites\\Compound94\\Compound94.yy",
                 "resourceType": "GMSprite"
             }
         },
