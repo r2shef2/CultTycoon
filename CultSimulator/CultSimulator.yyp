@@ -543,11 +543,27 @@
             }
         },
         {
+            "Key": "500f726f-5d65-4a61-add5-550fb92f7a07",
+            "Value": {
+                "id": "a52cea3a-3341-4fd8-9eda-ad5132fc595c",
+                "resourcePath": "fonts\\ArtifikaSmall\\ArtifikaSmall.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "50304469-efea-4c34-965b-f96449909f65",
             "Value": {
                 "id": "dbbb1315-3ac1-4ff7-b938-7cce0de680da",
                 "resourcePath": "views\\50304469-efea-4c34-965b-f96449909f65.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "50611ce6-eed0-41e2-9bad-fbc3997fa41a",
+            "Value": {
+                "id": "4b7d072e-83b3-4328-a2fb-bdf8c63edbbe",
+                "resourcePath": "sprites\\spr_speechBubbleSmaller\\spr_speechBubbleSmaller.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -868,6 +884,14 @@
                 "id": "248747ee-5408-4777-bd02-ee1c793fba14",
                 "resourcePath": "views\\704ac2f7-25fe-4846-a6dc-5260dec38998.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "705ad049-6dcb-4be0-b6a9-8e03e5dc4ea0",
+            "Value": {
+                "id": "9f8362f0-5201-48b8-8f7e-24ea09b6058c",
+                "resourcePath": "fonts\\Handwriting8\\Handwriting8.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -1235,6 +1259,14 @@
             "Value": {
                 "id": "6d678ce2-0793-4437-a405-c8f59f70d46d",
                 "resourcePath": "objects\\ConfirmName_Button\\ConfirmName_Button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a329c780-fd26-422e-810f-dc08a9bf4120",
+            "Value": {
+                "id": "b53b5757-f403-49fc-8a9a-87ab29ff5636",
+                "resourcePath": "objects\\SpeechBubbleClicked\\SpeechBubbleClicked.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1727,6 +1759,14 @@
             }
         },
         {
+            "Key": "eafc0dd0-bf83-4a6a-8190-910466bae481",
+            "Value": {
+                "id": "e53842c5-8565-4bb7-90eb-bf7c5a787ed9",
+                "resourcePath": "objects\\CultistPhrases\\CultistPhrases.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eb7a7435-fd42-4788-96e5-e13ec27f667d",
             "Value": {
                 "id": "04e6846e-e645-4519-88a7-41f63772bf11",
@@ -1804,6 +1844,14 @@
                 "id": "2c4860ea-41ea-4cf0-b2c1-0015510c8f1f",
                 "resourcePath": "sprites\\TitleBackdrop\\TitleBackdrop.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f5a50e57-8bef-464d-9933-7fb61d52e01d",
+            "Value": {
+                "id": "7cd49ce5-ee0d-4c23-ba86-1c905b86d73a",
+                "resourcePath": "fonts\\Handwriting13\\Handwriting13.yy",
+                "resourceType": "GMFont"
             }
         },
         {

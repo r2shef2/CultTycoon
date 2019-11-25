@@ -5,14 +5,16 @@ speed = 1.5
 if(walkDirection = "right")
 {
 	move_towards_point(2200, y, speed );
+	sprite_index = CultistWalkRight;
 	//change anim direction
-	image_xscale = image_xscale;
+	image_xscale = .144;
 }
 if(walkDirection = "left")
 {
 	move_towards_point( -100, y, speed );
+	sprite_index = CultistWalkRight;
 	//change anim direction
-	image_xscale = image_xscale * -1;
+	image_xscale = -.144;
 }
 if(walkDirection = "idle")
 {
