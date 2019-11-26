@@ -7,20 +7,20 @@ if(walkDirection = "right")
 	move_towards_point(2200, y, speed );
 	sprite_index = CultistWalkRight;
 	//change anim direction
-	image_xscale = .144;
+	image_xscale = scale;
 }
 if(walkDirection = "left")
 {
 	move_towards_point( -100, y, speed );
 	sprite_index = CultistWalkRight;
 	//change anim direction
-	image_xscale = -.144;
+	image_xscale = inverseScale;
 }
 if(walkDirection = "idle")
 {
 	move_towards_point( x, y, 0 );
 	//change anim direction
-	image_xscale = .144;
+	image_xscale = scale;
 	sprite_index = spriteIdle;
 	
 }
@@ -30,7 +30,7 @@ if(position_meeting(-99, y, CultistWalking))
 {
 	walkDirection = "right"
 }
-if(position_meeting(2199, y, CultistWalking))
+if(position_meeting(2000, y, CultistWalking))
 {
 	walkDirection = "left"
 }

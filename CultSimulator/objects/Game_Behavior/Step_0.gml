@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 //End game if player does not have minumum requirements
-if(loyalty <= 15 || followers <= 10 || money <= 500){
+if(loyalty <= 0 || followers <= 0 || money <= -500){
 	audio_stop_all();
 	gameover = true;
 	instance_destroy();

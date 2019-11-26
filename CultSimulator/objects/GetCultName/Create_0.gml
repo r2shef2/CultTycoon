@@ -47,5 +47,11 @@ ds_list_add(doomsdayNameAppend,
 "The Great Doomsday",
 "The Nuclear Doomsday",
 "The War of Doomsday",
-"The Doomsday Apocolypse"
+"The Doomsday Apocolypse",
+"Apocolypse of Doomsday",
+"The Bloody Doomsday",
+"Resurrection of Doomsday",
+"Doomsday Doomsday",
+"The Doomsday",
+"The Incoming Doomsday"
 );
