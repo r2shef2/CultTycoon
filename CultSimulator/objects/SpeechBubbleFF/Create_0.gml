@@ -1,30 +1,10 @@
-clickedBubbles = ds_list_create();
-ds_list_add(clickedBubbles,
-"Follow the Leader!",
-"Join us.",
-"Don't disappoint father",
-"He's watching",
-"Only sinners play video games",
-"Why are you different?",
-"I can save you",
-"Our rituals are secret",
-"Don't share our secrets",
-"Don't.",
-"Don't play this game",
-"Don't hit enter",
-"Don't click that button",
-"This game is bad",
-"Don't be so different",
-"You dress strange",
-"Do you have dead relatives?",
-"Why be different?",
-"Don't be unique",
-"This game is for weirdos",
-"Dont go any further",
-"This game has cooties",
-"This game is too naughty",
-"You're different, but the same as us",
-"Doubt your doubts about us",
+delay = 1;
+alarm[0] = delay;
+randomize();
+
+// List of Phrases
+listSillyBubbles = ds_list_create();
+ds_list_add(listSillyBubbles,
 "Your hoodie is too revealing.",
 "That’s not an opinion for you to have.",
 "Maybe you should think twice about that.",

@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "2aa8abd4-2dc1-4434-9576-72bec26ac517",
+            "Value": {
+                "id": "a61c1d59-6ce3-4cc7-b215-8f23a86f9d01",
+                "resourcePath": "objects\\SpeechBubbleFF\\SpeechBubbleFF.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2bab15a9-4ec2-4544-b0d2-c78b3bf9d9e8",
             "Value": {
                 "id": "030adee6-6443-4a7b-bb22-826c6a43e608",
