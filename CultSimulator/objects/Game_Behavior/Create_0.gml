@@ -3,7 +3,6 @@
 cultName = global.CultName;
 doomsdayEventName = global.DoomsdayEventName;
 end_info = "";
-//doomsday = false;
 doomsday_counter = 3;
 doomsday_time = 240;
 gameover = false;
@@ -11,11 +10,11 @@ gameover = false;
 global.room_number = 0;
 global.room_to_go_to = Main_Room;
 //Sets up game variables based on three different options
-switch(irandom(2)){
+switch(irandom(0)){
 	case 0:
-		followers = 8;
-		loyalty = 150;
-		money = 9000;
+		followers = 10;
+		loyalty = 35;
+		money = 5000;
 		break;
 	case 1:
 		followers = 3;
@@ -49,8 +48,6 @@ recruitment_room = 1;
 investment_room = 1;
 ritual_room = 1;
 //var buttons;
-
-
 
 
 
