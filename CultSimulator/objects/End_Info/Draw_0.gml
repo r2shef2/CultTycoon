@@ -5,4 +5,4 @@ draw_set_valign(fa_center);
 draw_set_halign(fa_center);
 draw_set_color(c_black);
 draw_set_font(Handwriting23);
-draw_text_ext(x, y, "FOR A MINUTE THERE I LOST MYSELF", 35, 150);
+draw_text_ext(x, y, global.gameOverText, 35, 150);

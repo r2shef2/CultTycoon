@@ -1,0 +1,1 @@
+image_index = Game_Behavior.recruitment_room - 1;

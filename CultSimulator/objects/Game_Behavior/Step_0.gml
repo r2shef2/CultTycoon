@@ -2,7 +2,8 @@
 // You can write your code in this editor
 
 //End game if player does not have minumum requirements
-if(loyalty <= 0 || followers <= 0 || money <= 0){
+if(loyalty < 0){
+	global.gameOverText = "You can't run a cult if your members aren't loyal"
 	loyalty = 0;
 	followers = 0;
 	money = 0;
@@ -10,6 +11,28 @@ if(loyalty <= 0 || followers <= 0 || money <= 0){
 	gameover = true;
 	instance_destroy();
 }
+// if ran out of money
+if(money < 0){
+	global.gameOverText = "Money is needed to run the intricacies of a cult"
+	loyalty = 0;
+	followers = 0;
+	money = 0;
+	audio_stop_all();
+	gameover = true;
+	instance_destroy();
+}
+// if ran out of followers
+if(followers < 0){
+	global.gameOverText = "The only follower of your cult is you"
+	loyalty = 0;
+	followers = 0;
+	money = 0;
+	audio_stop_all();
+	gameover = true;
+	instance_destroy();
+}
+
+
 
 if(gameover)
 	return;

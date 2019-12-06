@@ -2,6 +2,7 @@
 // You can write your code in this editor
 cultName = global.CultName;
 doomsdayEventName = global.DoomsdayEventName;
+global.gameOverText = "";
 end_info = "";
 doomsday_counter = 3;
 doomsday_time = 240;

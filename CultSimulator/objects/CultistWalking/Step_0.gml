@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-speed = random_range(.75, 1.25)
+speed = random_range(.4, .6)
 // Move character based on walk direction
 if(walkDirection = "right")
 {

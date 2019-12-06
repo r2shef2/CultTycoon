@@ -1,6 +1,6 @@
 startpos = 1;
 iterations = 0;
-scroll_spd = room_speed * 0.11;//how often the letters should scroll
+scroll_spd = room_speed * 0.09;//how often the letters should scroll
 alarm[0] = scroll_spd;
 str = "                           New organization called "+ global.CultName + " warns of incoming doomsday event called " + global.DoomsdayEventName;
 str_len = string_length(str);
@@ -20,3 +20,4 @@ ds_list_add(news,
 "Sorry Individuality, youre not cool any more - and heres why",
 "Local Group Prepares for an Apocolypse They are Calling " + global.DoomsdayEventName,
 global.DoomsdayEventName + " is coming! Hide yo kids! Hide yo Wife! and Hide your Husband!!");
+
