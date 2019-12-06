@@ -15,7 +15,7 @@ if(doomsday_counter > 0)
 }
 else {
 	doomsday_counter = 3;
-	// When timer isn't out hold blank image
+	// When timer isn t out hold blank image
 	DoomsdayLight.image_index = 0;
 	DoomsdayLight.image_speed = 0;
 }

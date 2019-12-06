@@ -1,4 +1,5 @@
 walkDirection = choose("right", "left", "idle");
+canTalk = true;
 scale = .06;
 inverseScale = scale*-1;
 image_xscale = scale;

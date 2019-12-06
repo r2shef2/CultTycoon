@@ -2,7 +2,7 @@
 limit = 10;
 if (string_length(keyboard_string)>=limit)
 {
-	// If its over the limit, don't change anything
+	// If its over the limit, don t change anything
     keyboard_string = input;
 }
 else

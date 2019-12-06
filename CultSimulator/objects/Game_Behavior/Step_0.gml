@@ -3,7 +3,7 @@
 
 //End game if player does not have minumum requirements
 if(loyalty < 0){
-	global.gameOverText = "You can't run a cult if your members aren't loyal"
+	global.gameOverText = "You can t run a cult if your members aren t loyal"
 	loyalty = 0;
 	followers = 0;
 	money = 0;
@@ -126,7 +126,7 @@ if(buttons[name.children]){
 //Sex trafficking recruitment room
 if(buttons[name.trafficking]){
 //	if(Game_Behavior.loyalty >= 15 && Game_Behavior.followers >= 25){
-	Game_Behavior.loyalty -= 15;
+	Game_Behavior.loyalty -= choose(15, 16);
 	Game_Behavior.followers -= 25;
 	Game_Behavior.money += Game_Behavior.followers * 15 + Game_Behavior.loyalty*10;
 	instance_create_depth(Money_Tag.x - random_range(20,80),Money_Tag.y - random_range(0,20),-1000,obj_plus);
@@ -145,8 +145,8 @@ if(buttons[name.trafficking]){
 if(buttons[name.campfire]){
 	// adds loyalty removes money
 //	if(Game_Behavior.followers >= 4){
-	Game_Behavior.followers -= 4;
-	Game_Behavior.loyalty += 5;
+	Game_Behavior.money -= choose(40, 55, 63, 78, 7);
+	Game_Behavior.loyalty += choose(5, 7);
 	instance_create_depth(Follower_Tag.x - random_range(20,80),Follower_Tag.y - random_range(0,20),-1000,obj_minus);
 	instance_create_depth(Loyalty_Tag.x - random_range(20,80),Loyalty_Tag.y - random_range(0,20),-1000,obj_plus);
 	//Reset the toggle on the button on the next frame,
@@ -188,16 +188,5 @@ if(buttons[name.suicide]){
 	Suicide.button[button.toggled] = false;
 	buttons[name.suicide] = false;
 	Suicide.image_blend = c_white;
-//}
 }
-
-
-// Doomsday Animations. Done here to be precise to the millisecond
-if(doomsday_counter > 0)
-{
-}
-else
-{
-}
-
 

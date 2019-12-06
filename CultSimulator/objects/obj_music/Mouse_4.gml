@@ -8,7 +8,7 @@ if(toggled)
 else
 {
 	// Make music play
-	audio_group_set_gain(MusicGroup, 1, 0);
+	audio_group_set_gain(MusicGroup, .08, 0);
 	toggled = true;
 	audio_play_sound(snd_Click,0,0);
 }

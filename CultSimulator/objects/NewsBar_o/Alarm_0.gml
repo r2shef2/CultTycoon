@@ -21,7 +21,8 @@ if(Game_Behavior.followers > 200)
 	"Cult numbers drastically increase due to sudden mass pregnancy", 
 	"Coffee cups laced with hyper hallucinogenic drug leads back to cult recruitment.",
 	"Hoodies banned at schools in an attempt to prevent cult influence on minors.",
-	 "Cult socials now offered weekly.”, “Local cult assembles dating app, members are essentially being bred.",
+	"Hoodies required at schools in an attempt to preserve minor spirituality",
+	 "Cult socials now offered weekly.", "Local cult assembles dating app, members are essentially being bred.",
 	 "local bakery turns out to be a front of a cult money laundry scam.", 
 	"Warehouse burns down, revealed to be an underground sweatshop.");
 }

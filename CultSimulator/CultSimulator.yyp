@@ -1271,6 +1271,14 @@
             }
         },
         {
+            "Key": "9a293a9c-b177-4fda-9071-14e8e28d03b7",
+            "Value": {
+                "id": "ba5b200b-a79a-4067-976a-2a82c223a38e",
+                "resourcePath": "objects\\SpeechBubblePyramid\\SpeechBubblePyramid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9cdd8d47-75aa-44a4-b2fb-92b737ebd2c2",
             "Value": {
                 "id": "39d3f4c0-a2a1-4f04-a60c-a1e5b1c88a87",
@@ -1996,6 +2004,14 @@
                 "id": "b70a3d89-53ba-4c04-bd74-ba000d44edb8",
                 "resourcePath": "sprites\\Cult_Idle_Lean\\Cult_Idle_Lean.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fb4fee75-c70d-4cbf-a131-65e5369b2e5e",
+            "Value": {
+                "id": "a47e57c3-14f8-46fa-9712-3ac777b87d70",
+                "resourcePath": "sounds\\Soundtrack\\Soundtrack.yy",
+                "resourceType": "GMSound"
             }
         },
         {

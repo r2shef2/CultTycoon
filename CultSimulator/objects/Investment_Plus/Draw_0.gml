@@ -1,6 +1,6 @@
 if(hovered){
 draw_self();
-ButtonInfo.image_blend = make_colour_rgb(50, 150, 50);
+ButtonInfo.image_blend = make_colour_rgb(50, 150, 100);
 draw_set_halign(fa_middle);
 draw_set_valign(fa_middle)
 draw_set_color(c_white);

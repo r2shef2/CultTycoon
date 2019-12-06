@@ -7,5 +7,6 @@ draw_set_color(c_black);
 draw_set_font(Handwriting23);
 // When its a longer string use the smaller font
 if(string_length(sillyBubble) >= 16) draw_set_font(Handwriting18);
+if(string_length(sillyBubble) <= 8) draw_set_font(WritingBig);
 // Draw the text and make new lines when it is wider than 150 pixels wide
 draw_text_ext(x, y, string_upper(sillyBubble), 35, 170);

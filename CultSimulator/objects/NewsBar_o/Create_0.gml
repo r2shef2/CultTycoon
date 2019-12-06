@@ -19,5 +19,7 @@ ds_list_add(news,
 "Why celebrate your birthday with a party? Have friends donate to "+ global.CultName + " instead!",
 "Sorry Individuality, youre not cool any more - and heres why",
 "Local Group Prepares for an Apocolypse They are Calling " + global.DoomsdayEventName,
-global.DoomsdayEventName + " is coming! Hide yo kids! Hide yo Wife! and Hide your Husband!!");
+global.DoomsdayEventName + " is coming! Hide yo kids! Hide yo Wife! and Hide your Husband!!",
+"All this news makes us really wonder, is Doomsday ever actually going to come"
+);
 
