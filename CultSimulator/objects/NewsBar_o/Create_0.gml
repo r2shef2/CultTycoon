@@ -9,7 +9,7 @@ sign_width = 24; //how many letters the sign should display
 // List of original news headlines
 news = ds_list_create();
 ds_list_add(news,
-"Sick of getting OK BOOMER'ed by millenials? Join our cult and kill them all!",
+"Sick of getting OK BOOMERed by millenials? Join our cult and kill them all!",
 "Sick of BOOMERS? Join our cult of young spirituals, make a difference!",
 "BREAKING NEWS! We live in a society!",
 "Local cult influences law, lowering alcohol content to control members.",
@@ -17,6 +17,6 @@ ds_list_add(news,
 "Worried about those hooded missionaries? Invite Them in so They Can Call Their Mom",
 "Local organization claims accurate Wiki page is inaccurate",
 "Why celebrate your birthday with a party? Have friends donate to "+ global.CultName + " instead!",
-"Sorry Individuality, youre not cool any more - and here’s why",
+"Sorry Individuality, youre not cool any more - and heres why",
 "Local Group Prepares for an Apocolypse They are Calling " + global.DoomsdayEventName,
 global.DoomsdayEventName + " is coming! Hide yo kids! Hide yo Wife! and Hide your Husband!!");
