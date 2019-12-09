@@ -28,5 +28,5 @@ else
 	// When Visible
 	// Makes it show long enough to read
 	visible = true;
-	alarm[0] = room_speed * 2; // 2 seconds
+	alarm[0] = room_speed * 2 * (.07 * string_length(sillyBubble)); // 2 seconds * a little bit of length
 }

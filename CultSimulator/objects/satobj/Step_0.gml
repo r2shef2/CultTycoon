@@ -1,4 +1,4 @@
-if(Game_Behavior.loyalty > 70)
+if(Game_Behavior.followers > Follower_Tag.blendLimit)
 {
 	visible = true;
 }

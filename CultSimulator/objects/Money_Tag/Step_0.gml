@@ -1,16 +1,16 @@
-if(Game_Behavior.money < 400)
+blendLimit = 5000;
+lowerMultiplier = 25;
+upperMultiplier = 100;
+if(Game_Behavior.money < blendLimit)
 {
-	image_blend = make_color_rgb(255, 160, 160);
+	blend = 100 + (Game_Behavior.money / lowerMultiplier);
+	if(blend > 255) { blend = 255; }
+	image_blend = make_color_rgb(255, blend, blend);
 }
-else if(Game_Behavior.money < 1000)
+
+if(Game_Behavior.money > blendLimit)
 {
-	image_blend = make_color_rgb(255, 200, 200);
-}
-else if(Game_Behavior.money < 2000)
-{
-	image_blend = make_color_rgb(255, 230, 230);
-}
-else
-{
-	image_blend = c_white;
+	blend = 255 - ((Game_Behavior.money - blendLimit) / upperMultiplier);
+	if(blend > 255) { blend = 255; }
+	image_blend = make_color_rgb(blend, 255, blend);
 }

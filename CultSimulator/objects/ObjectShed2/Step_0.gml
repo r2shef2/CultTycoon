@@ -1,4 +1,4 @@
-if(Game_Behavior.followers > 400)
+if(Game_Behavior.money > Money_Tag.blendLimit)
 {
 	visible = true;
 }

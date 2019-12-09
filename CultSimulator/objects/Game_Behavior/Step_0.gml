@@ -145,9 +145,9 @@ if(buttons[name.trafficking]){
 if(buttons[name.campfire]){
 	// adds loyalty removes money
 //	if(Game_Behavior.followers >= 4){
-	Game_Behavior.money -= choose(40, 55, 63, 78, 7);
+	Game_Behavior.money -= choose(108, 96, 54, 49, 72);
 	Game_Behavior.loyalty += choose(5, 7);
-	instance_create_depth(Follower_Tag.x - random_range(20,80),Follower_Tag.y - random_range(0,20),-1000,obj_minus);
+	instance_create_depth(Money_Tag.x - random_range(20,80),Money_Tag.y - random_range(0,20),-1000,obj_minus);
 	instance_create_depth(Loyalty_Tag.x - random_range(20,80),Loyalty_Tag.y - random_range(0,20),-1000,obj_plus);
 	//Reset the toggle on the button on the next frame,
 	//subtract points and reset image blend

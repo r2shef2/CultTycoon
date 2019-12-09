@@ -1,4 +1,4 @@
-if(Game_Behavior.money > 5000)
+if(Game_Behavior.loyalty > Loyalty_Tag.blendLimit)
 {
 	visible = true;
 }

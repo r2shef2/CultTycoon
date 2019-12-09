@@ -1,16 +1,16 @@
-if(Game_Behavior.loyalty < 20)
+blendLimit = 150;
+lowerMultiplier = .7;
+upperMultiplier = 1.5;
+if(Game_Behavior.loyalty < blendLimit)
 {
-	image_blend = make_color_rgb(255, 160, 160);
+	blend = 100 + (Game_Behavior.loyalty / lowerMultiplier);
+	if(blend > 255) { blend = 255; }
+	image_blend = make_color_rgb(255, blend, blend);
 }
-else if(Game_Behavior.loyalty < 35)
+
+if(Game_Behavior.loyalty > blendLimit)
 {
-	image_blend = make_color_rgb(255, 200, 200);
-}
-else if(Game_Behavior.loyalty < 100)
-{
-	image_blend = make_color_rgb(255, 230, 230);
-}
-else
-{
-	image_blend = c_white;
+	blend = 255 - ((Game_Behavior.loyalty - blendLimit) / upperMultiplier);
+	if(blend > 255) { blend = 255; }
+	image_blend = make_color_rgb(blend, 255, blend);
 }

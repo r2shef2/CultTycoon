@@ -1,16 +1,16 @@
-if(Game_Behavior.followers < 30)
+blendLimit = 150;
+lowerMultiplier = .9;
+upperMultiplier = 2;
+if(Game_Behavior.followers < blendLimit)
 {
-	image_blend = make_color_rgb(255, 160, 160);
+	blend = 100 + (Game_Behavior.followers / lowerMultiplier);
+	if(blend > 255) { blend = 255; }
+	image_blend = make_color_rgb(255, blend, blend);
 }
-else if(Game_Behavior.followers < 55)
+
+if(Game_Behavior.followers > blendLimit)
 {
-	image_blend = make_color_rgb(255, 200, 200);
-}
-else if(Game_Behavior.money < 105)
-{
-	image_blend = make_color_rgb(255, 230, 230);
-}
-else
-{
-	image_blend = c_white;
+	blend = 255 - ((Game_Behavior.followers - blendLimit) / upperMultiplier);
+	if(blend > 255) { blend = 255; }
+	image_blend = make_color_rgb(blend, 255, blend);
 }
