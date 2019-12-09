@@ -1111,6 +1111,14 @@
             }
         },
         {
+            "Key": "83ea71db-f283-4c5c-a775-34b5c4b3970d",
+            "Value": {
+                "id": "79ed930e-a9d7-44b0-ba47-e8d098bb25c4",
+                "resourcePath": "objects\\ObjectShed2\\ObjectShed2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "85f8318c-c10c-4aa8-8faa-1fc7262ffd84",
             "Value": {
                 "id": "b93c5bd3-2755-43f0-9ab6-72cbf50f6d4f",
@@ -1402,7 +1410,7 @@
             "Key": "aa4c3809-e83c-42a6-b1ce-c9adf832a10a",
             "Value": {
                 "id": "ff2cfdaa-33aa-4e28-baf0-6d390f652d33",
-                "resourcePath": "objects\\ObjectShed1\\ObjectShed1.yy",
+                "resourcePath": "objects\\satobj\\satobj.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1986,7 +1994,7 @@
             "Key": "fa0ddee0-269a-4693-8b0e-2b4d8c8766c0",
             "Value": {
                 "id": "957d4dc0-edb8-4a93-b567-bccdeec57a37",
-                "resourcePath": "objects\\ObjectShed11\\ObjectShed11.yy",
+                "resourcePath": "objects\\churchobj\\churchobj.yy",
                 "resourceType": "GMObject"
             }
         },

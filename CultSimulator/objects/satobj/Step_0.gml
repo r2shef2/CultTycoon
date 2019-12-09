@@ -1,4 +1,4 @@
-if(Game_Behavior.money > 10000)
+if(Game_Behavior.loyalty > 70)
 {
 	visible = true;
 }

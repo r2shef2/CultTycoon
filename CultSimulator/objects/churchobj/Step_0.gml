@@ -1,4 +1,4 @@
-if(Game_Behavior.followers > 200)
+if(Game_Behavior.money > 5000)
 {
 	visible = true;
 }
