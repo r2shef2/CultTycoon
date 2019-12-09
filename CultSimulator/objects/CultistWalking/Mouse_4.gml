@@ -1,7 +1,7 @@
 if(canTalk)
 {
 	instance_destroy(SpeechBubbleClicked);
-	instance_create_depth(x-120, y-85, 190, SpeechBubbleClicked);
+	instance_create_depth(x-120, y-85, 185, SpeechBubbleClicked);
 	// Play Sound
 	if(!audio_is_playing(snd_mumble1))
 	{

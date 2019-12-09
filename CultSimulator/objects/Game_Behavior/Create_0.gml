@@ -14,7 +14,7 @@ global.room_to_go_to = Main_Room;
 switch(irandom(0)){
 	case 0:
 		followers = 10;
-		loyalty = 35;
+		loyalty = 50;
 		money = 5000;
 		break;
 	case 1:
