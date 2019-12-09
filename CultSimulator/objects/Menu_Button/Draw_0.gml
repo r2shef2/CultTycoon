@@ -6,17 +6,21 @@ else
 {
 	sprite_index = Menu_s;
 }
-if(hovered){
-draw_self();
-ButtonInfo.image_blend = make_colour_rgb(100, 100, 25);
-draw_set_halign(fa_middle);
-draw_set_valign(fa_middle)
-draw_set_color(c_white);
-draw_set_font(Handwriting18);
-xpos = ButtonInfo.x;
-ypos = ButtonInfo.y;
-draw_text_ext(xpos, ypos, "Check in on your cultists at the compound", 35, 694);
+
+if(hovered)
+{
+	draw_self();
+	ButtonInfo.image_blend = make_colour_rgb(200, 200, 55);
+	draw_set_halign(fa_middle);
+	draw_set_valign(fa_middle)
+	draw_set_color(c_white);
+	draw_set_font(Handwriting18);
+	xpos = ButtonInfo.x;
+	ypos = ButtonInfo.y;
+	draw_text_ext(xpos, ypos, "Check in on your cultists at the compound", 35, 694);
 }
-else{
+else
+{
+	ButtonInfo.image_blend = c_white;
 	draw_self();
 }
