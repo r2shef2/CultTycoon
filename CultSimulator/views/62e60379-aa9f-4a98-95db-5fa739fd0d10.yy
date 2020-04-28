@@ -7,7 +7,8 @@
         "704ac2f7-25fe-4846-a6dc-5260dec38998",
         "497d2456-282f-4865-bdbd-1cff4e4c0793",
         "a1524323-3c6c-4eb1-a1bb-bd730a5b8dde",
-        "2e616f4a-8a10-4864-9ccc-4d800bfa0db8"
+        "2e616f4a-8a10-4864-9ccc-4d800bfa0db8",
+        "1baa4268-a0af-4d28-8384-5459961554c9"
     ],
     "filterType": "GMSprite",
     "folderName": "Buttons_InGame",

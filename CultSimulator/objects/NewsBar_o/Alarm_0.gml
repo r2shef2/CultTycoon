@@ -3,7 +3,7 @@ alarm[0] = scroll_spd;
 
 
 // add more text if reaching milestones
-if(Game_Behavior.followers > 200)
+if(Game_Behavior.followers > 25)
 {
 	ds_list_add(news,
 	 "Several missing persons start to show up on the dark web",
@@ -27,7 +27,7 @@ if(Game_Behavior.followers > 200)
 	"Warehouse burns down, revealed to be an underground sweatshop.");
 }
 
-if(Game_Behavior.loyalty > 700)
+if(Game_Behavior.loyalty > 200)
 {
 	ds_list_add(news,
 	"This just in. New cult creates giant swimming pool full of punch");

@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "01201e80-778b-4f5e-91d0-00d37a39f585",
+            "Value": {
+                "id": "50fb3c02-5df3-44c9-b84c-bafda76cd1a7",
+                "resourcePath": "objects\\Recruitment_Win\\Recruitment_Win.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "01e313ee-ea63-4965-accb-b8b1ab453be9",
             "Value": {
                 "id": "0dc2c907-5db0-4d84-a346-1390246008d6",
@@ -188,6 +196,14 @@
                 "id": "717e4a8c-5c98-4fe3-830f-5e539016d9ab",
                 "resourcePath": "views\\1a73fd2b-5587-41e5-997a-34c7746d823a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1baa4268-a0af-4d28-8384-5459961554c9",
+            "Value": {
+                "id": "155c5ac2-4a73-4563-881e-c415e3609254",
+                "resourcePath": "sprites\\Arrow112\\Arrow112.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -492,6 +508,14 @@
                 "id": "e57c0464-c5ec-4566-bdfa-2c245e92ddd5",
                 "resourcePath": "views\\3e2f88b8-d00e-4173-99bc-8489b558e816.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3e8f24c9-82dd-4941-b3cc-2921efda1ecb",
+            "Value": {
+                "id": "5815f976-dfb4-4ed0-8e7e-d19e9a13e63c",
+                "resourcePath": "sprites\\TutorialNew\\TutorialNew.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1031,6 +1055,14 @@
             }
         },
         {
+            "Key": "77c34d2f-bce5-4cf1-8db4-271a5940e31f",
+            "Value": {
+                "id": "ae75bd8a-7597-4cd4-9ed2-c297c3900009",
+                "resourcePath": "objects\\Investment_Win\\Investment_Win.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "78ed252d-a681-442a-a4c5-c8692199bf6c",
             "Value": {
                 "id": "d92bc45d-8995-4789-865e-aa68a26fb934",
@@ -1524,6 +1556,14 @@
                 "id": "89d15591-fc2b-4ad5-8482-1a627a39412f",
                 "resourcePath": "sounds\\snd_mumble3\\snd_mumble3.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "b6583583-9106-4cd2-8c8e-c92e876f88aa",
+            "Value": {
+                "id": "a2f6093e-aff3-4d3f-9f37-f9c281d829f2",
+                "resourcePath": "objects\\Loyalty_Win\\Loyalty_Win.yy",
+                "resourceType": "GMObject"
             }
         },
         {

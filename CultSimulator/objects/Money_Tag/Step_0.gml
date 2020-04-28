@@ -1,4 +1,3 @@
-blendLimit = 5000;
 lowerMultiplier = 25;
 upperMultiplier = 100;
 if(Game_Behavior.money < blendLimit)

@@ -1,4 +1,3 @@
-blendLimit = 150;
 lowerMultiplier = .7;
 upperMultiplier = 1.5;
 if(Game_Behavior.loyalty < blendLimit)

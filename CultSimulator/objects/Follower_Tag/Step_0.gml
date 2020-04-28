@@ -1,4 +1,3 @@
-blendLimit = 150;
 lowerMultiplier = .9;
 upperMultiplier = 2;
 if(Game_Behavior.followers < blendLimit)
